@@ -1,5 +1,6 @@
 [
   {
+    "slug": "bitcoin-internals",
     "title": "Bitcoin Internals",
     "subtitle": "A Technical Guide to Bitcoin",
     "authors": [
@@ -16,9 +17,11 @@
     "info_link": null,
     "sources": [
       "github.com/jlopp/Blockchain-stuff"
-    ]
+    ],
+    "gist": "A short technical guide to Bitcoin's workings: how the blockchain tracks ownership and prevents double-spending, the cryptography behind transactions, and how proof-of-work mining creates coins. For technically minded readers."
   },
   {
+    "slug": "on-the-origins-of-bitcoin",
     "title": "On the Origins of Bitcoin",
     "subtitle": "Stages of Monetary Evolution",
     "authors": [
@@ -36,9 +39,11 @@
     "info_link": "https://www.konradsgraf.com/",
     "sources": [
       "Author blog post links PDF (200, application/pdf)"
-    ]
+    ],
+    "gist": "An economic and historical study of Bitcoin's origin and value as money, relating it to Austrian economics, Mises's regression theorem and Menger's evolutionary account of money. For readers interested in monetary theory."
   },
   {
+    "slug": "bitcoin-and-the-future-of-money",
     "title": "Bitcoin",
     "subtitle": "And the Future of Money",
     "authors": [
@@ -57,29 +62,16 @@
     "notes": "Triumph Books, Sept 2014. ISBN 9781629370361. Covers the dark side incl. FBI interviews.",
     "borderline": false,
     "sources": [
-      "Triumph Books; Goodreads"
-    ]
-  },
-  {
-    "title": "Bitcoin and the Future of Money",
-    "subtitle": null,
-    "authors": [
-      "Jose Pagliery"
-    ],
-    "year": 2014,
-    "language": "English",
-    "topics": [
-      "history"
-    ],
-    "level": "beginner",
-    "free_link": null,
-    "free_link_note": null,
-    "info_link": null,
-    "sources": [
+      "Triumph Books; Goodreads",
       "github.com/jlopp/Blockchain-stuff"
-    ]
+    ],
+    "cover": "/covers/bitcoin-and-the-future-of-money.jpg",
+    "gist": "A CNNMoney reporter's introduction to Bitcoin: its origins, how it works and is used today, its economic implications and its illicit uses, with interviews from regulators to advocates. For general readers.",
+    "isbn": "9781623689193",
+    "cover_color": "#75aa79"
   },
   {
+    "slug": "bitcoin-for-the-befuddled",
     "title": "Bitcoin for the Befuddled",
     "subtitle": null,
     "authors": [
@@ -101,9 +93,14 @@
     "sources": [
       "No Starch Press",
       "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/bitcoin-for-the-befuddled.jpg",
+    "gist": "A plain-language, illustrated introduction to Bitcoin that explains how it works, how to acquire and use it, and how to mine it. For complete beginners.",
+    "isbn": "9781593275730",
+    "cover_color": "#71287f"
   },
   {
+    "slug": "bitcoin-a-moeda-na-era-digital",
     "title": "Bitcoin: a moeda na era digital",
     "subtitle": null,
     "authors": [
@@ -123,9 +120,11 @@
     "borderline": false,
     "sources": [
       "Instituto Ludwig von Mises Brasil (ISBN 9788581190761); Mises journal review"
-    ]
+    ],
+    "gist": "A Portuguese-language introduction to Bitcoin that explains its origins and how it works, then analyzes it through Austrian School economics and monetary freedom. Aimed at general readers."
   },
   {
+    "slug": "bitcoin-the-future-of-money",
     "title": "Bitcoin: The Future of Money?",
     "subtitle": null,
     "authors": [
@@ -146,9 +145,14 @@
     "sources": [
       "Unbound / Amazon",
       "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/bitcoin-the-future-of-money.jpg",
+    "gist": "Tells the story of Bitcoin from Satoshi Nakamoto's appearance after the 2008 crisis, explaining in plain language how it works and what it could mean for the state. For general readers.",
+    "isbn": "9781783520763",
+    "cover_color": "#72491d"
   },
   {
+    "slug": "god-is-a-gamer",
     "title": "God Is a Gamer",
     "subtitle": null,
     "authors": [
@@ -167,9 +171,11 @@
     "borderline": false,
     "sources": [
       "Penguin Books India; reviews"
-    ]
+    ],
+    "gist": "A thriller novel in which a struggling gaming company, a banker's suspicious death and a US terror investigation are tied together through Bitcoin and the dark web. Fiction for general readers."
   },
   {
+    "slug": "the-anatomy-of-a-money-like-informational-commodity",
     "title": "The Anatomy of a Money-Like Informational Commodity",
     "subtitle": "A Study of Bitcoin",
     "authors": [
@@ -187,9 +193,11 @@
     "sources": [
       "github.com/jlopp/Blockchain-stuff"
     ],
-    "evidence": "The author's blog ofnumbers.com/the-anatomy/ and his 2014 announcement post both say the book is 'all available for free in PDF and Scribd formats'. The PDF link on that page returns HTTP 200, application/pdf, 6.8 MB. The older S3 link from the announcement is dead (404)."
+    "evidence": "The author's blog ofnumbers.com/the-anatomy/ and his 2014 announcement post both say the book is 'all available for free in PDF and Scribd formats'. The PDF link on that page returns HTTP 200, application/pdf, 6.8 MB. The older S3 link from the announcement is dead (404).",
+    "gist": "A free, book-length study of Bitcoin that treats it as an informational commodity, covering public goods, mining, deflation, network effects and legal issues. For readers wanting an analytical view."
   },
   {
+    "slug": "the-bitcoin-big-bang",
     "title": "The Bitcoin Big Bang",
     "subtitle": "How Alternative Currencies Are About to Change the World",
     "authors": [
@@ -210,9 +218,14 @@
     "sources": [
       "Wiley / Amazon",
       "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/the-bitcoin-big-bang.jpg",
+    "gist": "A currency trader's guide that goes beyond Bitcoin basics, placing digital currency in the history of payments and examining how it may affect business and the future of money. For general and business readers.",
+    "isbn": "9781118963661",
+    "cover_color": "#503b0e"
   },
   {
+    "slug": "the-book-of-satoshi",
     "title": "The Book of Satoshi",
     "subtitle": "The Collected Writings of Bitcoin Creator Satoshi Nakamoto",
     "authors": [
@@ -233,9 +246,14 @@
     "sources": [
       "Wikipedia (Phil Champagne); bol.com",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/the-book-of-satoshi.jpg",
+    "gist": "Compiles Satoshi Nakamoto's emails, forum posts and the Bitcoin white paper in chronological order, with explanations of Bitcoin fundamentals and its economic implications.",
+    "isbn": "9780996061315",
+    "cover_color": "#51687f"
   },
   {
+    "slug": "understanding-bitcoin",
     "title": "Understanding Bitcoin",
     "subtitle": "Cryptography, Engineering and Economics",
     "authors": [
@@ -253,9 +271,14 @@
     "info_link": null,
     "sources": [
       "github.com/jlopp/Blockchain-stuff"
-    ]
+    ],
+    "cover": "/covers/understanding-bitcoin.jpg",
+    "gist": "A technical guide to the cryptography, engineering and economics of Bitcoin, from public key cryptography through transactions, the blockchain and mining, plus competing economic views. Aimed at finance professionals.",
+    "isbn": "9781119019152",
+    "cover_color": "#f4b518"
   },
   {
+    "slug": "ango-ga-tsuka-ni-naru-bitcoin-no-karakuri",
     "title": "暗号が通貨になる「ビットコイン」のからくり",
     "subtitle": "数式なしでわかる仮想通貨の技術",
     "authors": [
@@ -281,9 +304,11 @@
       "Agora web article by the author",
       "Goodreads",
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A Japanese Blue Backs book explaining the mathematics and cryptography behind Bitcoin and its economic impact, comparing it with government-backed currency and electronic money. For general readers."
   },
   {
+    "slug": "are-bitcoins-ownable",
     "title": "Are Bitcoins Ownable?",
     "subtitle": "Property Rights, IP Wrongs, and Legal Theory Implications",
     "authors": [
@@ -301,9 +326,12 @@
     "info_link": "https://www.konradsgraf.com/blog1/2015/11/8/announcing-new-book-on-bitcoin-and-legal-theory.html",
     "sources": [
       "Author's announcement page (PDF 200, application/pdf)"
-    ]
+    ],
+    "gist": "A monograph asking whether bitcoins can be owned as property, using an action-based theory of property rights and noting that Bitcoin fits poorly into existing legal categories. For readers in law and libertarian theory.",
+    "isbn": "9781517410377"
   },
   {
+    "slug": "bit-by-bit",
     "title": "Bit by Bit",
     "subtitle": "How P2P Is Freeing the World",
     "authors": [
@@ -320,9 +348,13 @@
     "info_link": null,
     "sources": [
       "github.com/jlopp/Blockchain-stuff"
-    ]
+    ],
+    "cover": "/covers/bit-by-bit.jpg",
+    "gist": "Argues that peer-to-peer technology, with Bitcoin as a prime example, is reshaping social, economic and political life by letting people cooperate without central control.",
+    "cover_color": "#e8f7f5"
   },
   {
+    "slug": "bitcoin-basics",
     "title": "Bitcoin Basics",
     "subtitle": null,
     "authors": [
@@ -339,9 +371,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A short question-and-answer guide with 101 entries for beginners, covering Bitcoin's origins, who runs the network, mining, security, value, and common objections.",
+    "isbn": "9780692572337"
   },
   {
+    "slug": "bitcoin-geld-ohne-staat",
     "title": "Bitcoin – Geld ohne Staat",
     "subtitle": null,
     "authors": [
@@ -360,9 +395,12 @@
     "borderline": false,
     "sources": [
       "FinanzBuch Verlag; LexisNexis shop (ISBN 9783898799119)"
-    ]
+    ],
+    "gist": "A German-language introduction to Bitcoin that views it through Austrian-school economics as free-market money, explains the blockchain, and includes interviews with Bitcoin figures such as Roger Ver and Gavin Andresen.",
+    "isbn": "9783898799119"
   },
   {
+    "slug": "digital-gold",
     "title": "Digital Gold",
     "subtitle": "Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
     "authors": [
@@ -382,9 +420,14 @@
     "sources": [
       "Harper / library catalogues",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/digital-gold.jpg",
+    "gist": "A journalist's narrative history of Bitcoin and the people behind it, from early cypherpunk experiments through the Mt. Gox era and the rise of Bitcoin startups.",
+    "isbn": "9780062572066",
+    "cover_color": "#131214"
   },
   {
+    "slug": "the-age-of-cryptocurrency",
     "title": "The Age of Cryptocurrency",
     "subtitle": "How Bitcoin and Digital Money Are Challenging the Global Economic Order",
     "authors": [
@@ -406,9 +449,14 @@
     "sources": [
       "St. Martin's Press / Amazon",
       "lopp.net bitcoin books pages; github.com/jlopp/Blockchain-stuff"
-    ]
+    ],
+    "cover": "/covers/the-age-of-cryptocurrency.jpg",
+    "gist": "Explains Bitcoin and the cryptocurrency idea, how digital money works and why it matters, with attention to its potential to change finance. For general readers.",
+    "isbn": "9781250073082",
+    "cover_color": "#fefefe"
   },
   {
+    "slug": "bitcoin-and-cryptocurrency-technologies",
     "title": "Bitcoin and Cryptocurrency Technologies",
     "subtitle": "A Comprehensive Introduction",
     "authors": [
@@ -433,9 +481,14 @@
       "lopp.net bitcoin books pages; github.com/jlopp/Blockchain-stuff"
     ],
     "notes": "The 'Princeton textbook'; accompanies the Coursera course. Largely Bitcoin, with a chapter on altcoins.",
-    "borderline": false
+    "borderline": false,
+    "cover": "/covers/bitcoin-and-cryptocurrency-technologies.jpg",
+    "gist": "A textbook-style introduction to how Bitcoin works, covering cryptography, mining, anonymity and altcoins. For students, developers and researchers.",
+    "isbn": "9780691171692",
+    "cover_color": "#e5e5e5"
   },
   {
+    "slug": "bitcoin-for-dummies",
     "title": "Bitcoin For Dummies",
     "subtitle": null,
     "authors": [
@@ -455,9 +508,14 @@
     "sources": [
       "Wiley / Amazon",
       "github.com/jlopp/Blockchain-stuff"
-    ]
+    ],
+    "cover": "/covers/bitcoin-for-dummies.jpg",
+    "gist": "A beginner's guide to understanding the Bitcoin market, setting up a wallet, buying, storing and using bitcoin, and protecting against fraud and theft.",
+    "isbn": "9786059746670",
+    "cover_color": "#ded90f"
   },
   {
+    "slug": "the-internet-of-money",
     "title": "The Internet of Money",
     "subtitle": "A collection of talks by Andreas M. Antonopoulos",
     "authors": [
@@ -481,9 +539,13 @@
       "Amazon / aantonop.com",
       "lopp.net bitcoin books pages; bitcoin-resources.com/books"
     ],
-    "evidence": "Every commit (initial commit, README, 'second print edition', Jan 2017) is authored by Andreas M. Antonopoulos <andreas@antonopoulos.com>. The README says the source is for the book published by MerkleBloom LLC and that the chapters are licensed CC-BY-NC-ND, and the LICENSE says 'Copyright (c) 2017 merklebloom'. The author granted the license, so verbatim non-commercial redistribution is allowed. The github.com/merklebloom org now only has bookbuilder and docker-asciidoctor, so the original repo seems to have been removed. Consider linking with that caveat."
+    "evidence": "Every commit (initial commit, README, 'second print edition', Jan 2017) is authored by Andreas M. Antonopoulos <andreas@antonopoulos.com>. The README says the source is for the book published by MerkleBloom LLC and that the chapters are licensed CC-BY-NC-ND, and the LICENSE says 'Copyright (c) 2017 merklebloom'. The author granted the license, so verbatim non-commercial redistribution is allowed. The github.com/merklebloom org now only has bookbuilder and docker-asciidoctor, so the original repo seems to have been removed. Consider linking with that caveat.",
+    "cover": null,
+    "gist": "A collection of Andreas Antonopoulos's talks and essays on why Bitcoin matters, covering its philosophical, social and historical implications rather than how it works technically.",
+    "isbn": "9781537000459"
   },
   {
+    "slug": "the-politics-of-bitcoin",
     "title": "The Politics of Bitcoin",
     "subtitle": "Software as Right-Wing Extremism",
     "authors": [
@@ -500,9 +562,14 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin Books'; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/the-politics-of-bitcoin.jpg",
+    "gist": "A short critical book arguing that Bitcoin's supporters hold a cyberlibertarian outlook that leans on far-right political thought, tracing its ideas from Friedman, Hayek and Mises to Fed conspiracy theories.",
+    "isbn": "9781452953816",
+    "cover_color": "#deddca"
   },
   {
+    "slug": "american-kingpin",
     "title": "American Kingpin",
     "subtitle": "The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
     "authors": [
@@ -521,9 +588,14 @@
     "borderline": true,
     "sources": [
       "Portfolio/Penguin / Amazon"
-    ]
+    ],
+    "cover": "/covers/american-kingpin.jpg",
+    "gist": "The story of Ross Ulbricht and the Silk Road, the dark web marketplace that ran on Bitcoin, and the investigation that brought it down. A narrative true-crime account.",
+    "isbn": "9780753546673",
+    "cover_color": "#a72422"
   },
   {
+    "slug": "attack-of-the-50-foot-blockchain",
     "title": "Attack of the 50 Foot Blockchain",
     "subtitle": "Bitcoin, Blockchain, Ethereum & Smart Contracts",
     "authors": [
@@ -540,9 +612,14 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin Books'"
-    ]
+    ],
+    "cover": "/covers/attack-of-the-50-foot-blockchain.jpg",
+    "gist": "A sceptical, non-technical tour of Bitcoin, blockchain, Ethereum and smart contracts up to mid-2017, covering energy use, exchange hacks, Mt. Gox, Silk Road and mining concentration.",
+    "isbn": "9781974000067",
+    "cover_color": "#d9dfe2"
   },
   {
+    "slug": "bitcoin-la-monnaie-acephale",
     "title": "Bitcoin, la monnaie acéphale",
     "subtitle": null,
     "authors": [
@@ -563,9 +640,11 @@
     "borderline": false,
     "sources": [
       "CNRS Éditions (ISBN 978-2-271-11554-6); Cryptoast review"
-    ]
+    ],
+    "gist": "A French-language book on Bitcoin as a leaderless, headless money, taking a deliberately contrarian view of established economic ideas. Co-written by a historian-banker and a digital specialist."
   },
   {
+    "slug": "how-money-got-free",
     "title": "How Money Got Free",
     "subtitle": "Bitcoin and the Fight for the Future of Finance",
     "authors": [
@@ -582,9 +661,14 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
-    ]
+    ],
+    "cover": "/covers/how-money-got-free.jpg",
+    "gist": "An account of Bitcoin's rise from fringe idea to financial industry attention, following the people and companies building around it. For general readers.",
+    "isbn": "9781780746586",
+    "cover_color": "#1ea29b"
   },
   {
+    "slug": "pay-the-devil-in-bitcoin",
     "title": "Pay the Devil in Bitcoin",
     "subtitle": "The Collapse of Mt. Gox",
     "authors": [
@@ -604,9 +688,11 @@
     "borderline": false,
     "sources": [
       "Goodreads; David Gerard review"
-    ]
+    ],
+    "gist": "A nonfiction account of the collapse of Mt. Gox, the Tokyo bitcoin exchange that lost nearly half a billion dollars of bitcoin, written with input from its owner Mark Karpeles and former staff."
   },
   {
+    "slug": "the-internet-of-money-volume-two",
     "title": "The Internet of Money, Volume Two",
     "subtitle": null,
     "authors": [
@@ -623,9 +709,14 @@
     "info_link": null,
     "sources": [
       "bitcoin-resources.com/books"
-    ]
+    ],
+    "cover": "/covers/the-internet-of-money-volume-two.jpg",
+    "gist": "A second collection of eleven Andreas Antonopoulos talks, including 'Blockchain vs Bullshit' and 'Currency Wars', with a new FAQ section. It can be read without Volume One.",
+    "isbn": "9781947910065",
+    "cover_color": "#7734a0"
   },
   {
+    "slug": "bitcoin-and-beyond",
     "title": "Bitcoin and Beyond",
     "subtitle": "Cryptocurrencies, Blockchains, and Global Governance",
     "authors": [
@@ -645,9 +736,11 @@
       "DOI resolves (200) to Taylor & Francis OA page; license per OAPEN metadata via search (OAPEN blocked automated fetch)"
     ],
     "borderline": true,
-    "notes": "Academic open-access volume that also covers blockchains beyond Bitcoin."
+    "notes": "Academic open-access volume that also covers blockchains beyond Bitcoin.",
+    "gist": "An academic edited volume by scholars from several disciplines on what Bitcoin and blockchains mean for global governance, with chapters on anti-money-laundering rules and The DAO."
   },
   {
+    "slug": "bitcoin-metamorphoses",
     "title": "Bitcoin – Métamorphoses",
     "subtitle": "De l'or des fous à l'or numérique ?",
     "authors": [
@@ -669,9 +762,11 @@
     "borderline": false,
     "sources": [
       "Dunod; Cryptoast review"
-    ]
+    ],
+    "gist": "A French-language book that surveys Bitcoin's history, its antifragility, criticisms, the 'blockchain bullshit' trend and smart contracts, and challenges media coverage. A follow-up to La monnaie acephale."
   },
   {
+    "slug": "the-bitcoin-standard",
     "title": "The Bitcoin Standard",
     "subtitle": "The Decentralized Alternative to Central Banking",
     "authors": [
@@ -689,9 +784,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/the-bitcoin-standard.jpg",
+    "gist": "Traces the history of money from shells and gold to central banking, then argues Bitcoin is a sound-money alternative to government currencies. For general readers.",
+    "isbn": "9781119473862",
+    "cover_color": "#fdfdfd"
   },
   {
+    "slug": "tutto-su-bitcoin",
     "title": "Tutto su Bitcoin",
     "subtitle": null,
     "authors": [
@@ -713,9 +813,12 @@
     "borderline": true,
     "sources": [
       "Hoepli; Italian book-roundup sites"
-    ]
+    ],
+    "gist": "An Italian practical guide to investing in cryptocurrencies, explaining how to open exchange accounts and set up wallets, with a section on Ethereum, Litecoin, Dash and Monero.",
+    "isbn": "9788820385323"
   },
   {
+    "slug": "21-lessons",
     "title": "21 Lessons",
     "subtitle": "What I've Learned from Falling Down the Bitcoin Rabbit Hole",
     "authors": [
@@ -736,9 +839,14 @@
     "sources": [
       "21lessons.com (200, CC-BY-SA link on page)",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/21-lessons.jpg",
+    "gist": "A personal, non-technical set of 21 lessons from the author's study of Bitcoin, in three sections covering philosophy, economics and technology.",
+    "isbn": "9781697526349",
+    "cover_color": "#f8f1e7"
   },
   {
+    "slug": "bitcoin-black-america",
     "title": "Bitcoin & Black America",
     "subtitle": null,
     "authors": [
@@ -756,9 +864,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/bitcoin-black-america.jpg",
+    "gist": "Explores how Bitcoin and blockchain could help Black Americans build wealth, with a critique of the banking system, advice on using Bitcoin in work and business, and a list of Black blockchain professionals.",
+    "isbn": "9781079178098",
+    "cover_color": "#292929"
   },
   {
+    "slug": "bitcoin-and-lightning-network-on-raspberry-pi",
     "title": "Bitcoin and Lightning Network on Raspberry Pi",
     "subtitle": "Running Nodes on Pi3, Pi4 and Pi Zero",
     "authors": [
@@ -782,9 +895,14 @@
       "github.com/jlopp/Blockchain-stuff"
     ],
     "companion_repo": "https://github.com/Apress/bitcoin-lightning-network-raspberry-pi",
-    "evidence": "Official Apress org repo, description 'Source Code for ... by Harris Brakmic', homepage apress.com/us/book/9781484255216."
+    "evidence": "Official Apress org repo, description 'Source Code for ... by Harris Brakmic', homepage apress.com/us/book/9781484255216.",
+    "cover": "/covers/bitcoin-and-lightning-network-on-raspberry-pi.jpg",
+    "gist": "A hands-on guide to running Bitcoin full nodes and Lightning nodes (LND and c-lightning) on Raspberry Pi, covering Bitcoin basics, mining and wallets via RPC. For makers comfortable with Linux.",
+    "isbn": "9781484255216",
+    "cover_color": "#3f4648"
   },
   {
+    "slug": "bitcoin-billionaires",
     "title": "Bitcoin Billionaires",
     "subtitle": "A True Story of Genius, Betrayal, and Redemption",
     "authors": [
@@ -805,9 +923,14 @@
     "sources": [
       "Flatiron Books / Amazon",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/bitcoin-billionaires.jpg",
+    "gist": "The story of Tyler and Cameron Winklevoss after the Facebook dispute, and their bet on Bitcoin and role in its early crypto industry. A narrative account.",
+    "isbn": "9781408711897",
+    "cover_color": "#0c0b0b"
   },
   {
+    "slug": "bitcoin-money",
     "title": "Bitcoin Money",
     "subtitle": "A Tale of Bitville Discovering Good Money",
     "authors": [
@@ -828,9 +951,14 @@
     "sources": [
       "Charter Bookstore (ISBN 9780578490670); Shortform",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/bitcoin-money.jpg",
+    "gist": "A children's picture book about the town of Bitville, whose kids move from barter to fiat money and inflation until a newcomer named Satoshi introduces Bitcoin.",
+    "isbn": "9780578490670",
+    "cover_color": "#fafcfb"
   },
   {
+    "slug": "grokking-bitcoin",
     "title": "Grokking Bitcoin",
     "subtitle": null,
     "authors": [
@@ -852,9 +980,14 @@
       "lopp.net bitcoin books pages"
     ],
     "notes": "Manning, 2019. Foreword by David A. Harding.",
-    "borderline": false
+    "borderline": false,
+    "cover": "/covers/grokking-bitcoin.jpg",
+    "gist": "A guide to how Bitcoin works, from hash functions and signatures through addresses, wallets, transactions, proof of work and the network, up to SegWit. Programming is not required.",
+    "isbn": "9781617294648",
+    "cover_color": "#fcfcfc"
   },
   {
+    "slug": "inventing-bitcoin",
     "title": "Inventing Bitcoin",
     "subtitle": "The Technology Behind the First Truly Scarce and Decentralized Money Explained",
     "authors": [
@@ -873,9 +1006,14 @@
     "sources": [
       "swanbitcoin.com/freebook redirects here (200); author is Swan co-founder",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/inventing-bitcoin.jpg",
+    "gist": "A short primer on how Bitcoin works, covering transactions, blocks, proof-of-work mining, wallets, keys and scripting, using only high-school math.",
+    "isbn": "9781794326316",
+    "cover_color": "#3a3f4a"
   },
   {
+    "slug": "programming-bitcoin",
     "title": "Programming Bitcoin",
     "subtitle": "Learn How to Program Bitcoin from Scratch",
     "authors": [
@@ -897,9 +1035,14 @@
       "lopp.net bitcoin books pages"
     ],
     "notes": "O'Reilly, 2019. Python implementation of Bitcoin primitives.",
-    "borderline": false
+    "borderline": false,
+    "cover": "/covers/programming-bitcoin.jpg",
+    "gist": "A hands-on book for Python developers that teaches Bitcoin by building a library from scratch, covering elliptic curve math, transactions, Script, blocks, proof of work and networking.",
+    "isbn": "9781492031499",
+    "cover_color": "#fdfdfd"
   },
   {
+    "slug": "the-internet-of-money-volume-three",
     "title": "The Internet of Money, Volume Three",
     "subtitle": null,
     "authors": [
@@ -916,9 +1059,14 @@
     "info_link": null,
     "sources": [
       "bitcoin-resources.com/books; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/the-internet-of-money-volume-three.jpg",
+    "gist": "A third collection of twelve Andreas Antonopoulos talks about money as a tool of control and surveillance, financial inclusion, and what money could look like without a central authority.",
+    "isbn": "9781947910171",
+    "cover_color": "#06b8ec"
   },
   {
+    "slug": "the-little-bitcoin-book",
     "title": "The Little Bitcoin Book",
     "subtitle": "Why Bitcoin Matters for Your Freedom, Finances, and Future",
     "authors": [
@@ -943,9 +1091,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; bitcoin-resources.com/books"
-    ]
+    ],
+    "cover": "/covers/the-little-bitcoin-book.jpg",
+    "gist": "A short introduction by eight authors from five continents explaining what is wrong with today's money and how Bitcoin offers an alternative, with a 30-page FAQ. For readers with no technical or financial background.",
+    "isbn": "9781641990509",
+    "cover_color": "#463f3c"
   },
   {
+    "slug": "why-buy-bitcoin",
     "title": "Why Buy Bitcoin",
     "subtitle": "Investing Today in the Money of Tomorrow",
     "authors": [
@@ -962,9 +1115,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/why-buy-bitcoin.jpg",
+    "gist": "A wealth manager's investment case for Bitcoin, starting with the history of money, then covering its decentralized design and fixed supply, objections like volatility and energy, and comparisons with gold, stocks and real estate.",
+    "isbn": "9781733219600",
+    "cover_color": "#b0d4de"
   },
   {
+    "slug": "smartcustody",
     "title": "#SmartCustody",
     "subtitle": "The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets",
     "authors": [
@@ -981,9 +1139,12 @@
     "info_link": "https://www.blockchaincommons.com/",
     "sources": [
       "Official Blockchain Commons repo README"
-    ]
+    ],
+    "gist": "A free guide to protecting digital assets that builds a risk-modeling method around a 14-step cold-storage self-custody scenario and 27 adversaries, for individual holders and family funds.",
+    "isbn": "9781734063707"
   },
   {
+    "slug": "bitcoin-clarity",
     "title": "Bitcoin Clarity",
     "subtitle": "The Complete Beginners Guide to Understanding",
     "authors": [
@@ -1000,9 +1161,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/bitcoin-clarity.jpg",
+    "gist": "A self-published guide for non-technical readers that explains Bitcoin through conceptual mental models rather than code, written by a Blockstream sysadmin.",
+    "isbn": "9781733871204",
+    "cover_color": "#f7f3f4"
   },
   {
+    "slug": "bitcoin-red-pill",
     "title": "Bitcoin Red Pill",
     "subtitle": "O Renascimento Moral, Material e Tecnológico",
     "authors": [
@@ -1023,9 +1189,11 @@
     "borderline": false,
     "sources": [
       "Skoob; Investidor10"
-    ]
+    ],
+    "gist": "A Portuguese-language introductory book presenting Bitcoin as a way to separate money from government, covering seigniorage, bailouts and fiat currency, with practical steps for using it."
   },
   {
+    "slug": "bitcoin-blockchain-and-cryptoassets",
     "title": "Bitcoin, Blockchain, and Cryptoassets",
     "subtitle": "A Comprehensive Introduction",
     "authors": [
@@ -1048,9 +1216,12 @@
       "MIT Press"
     ],
     "companion_repo": "https://github.com/cifunibas/Bitcoin-Blockchain-Cryptoassets",
-    "evidence": "Owned by cifunibas, the Center for Innovative Finance at the University of Basel (cif.unibas.ch), which is the authors' institute. The book comes out of this lecture. The repo holds slide .tex files only."
+    "evidence": "Owned by cifunibas, the Center for Innovative Finance at the University of Basel (cif.unibas.ch), which is the authors' institute. The book comes out of this lecture. The repo holds slide .tex files only.",
+    "gist": "A university textbook introducing Bitcoin, blockchain and cryptoassets, from monetary economics and the Bitcoin protocol to proof-of-work, game theory, volatility and regulation. Written for students and practitioners.",
+    "isbn": "9780262539166"
   },
   {
+    "slug": "bitcoin-hard-money-you-can-t-f-ck-with",
     "title": "Bitcoin: Hard Money You Can't F*ck With",
     "subtitle": null,
     "authors": [
@@ -1068,9 +1239,14 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
-    ]
+    ],
+    "cover": "/covers/bitcoin-hard-money-you-can-t-f-ck-with.jpg",
+    "gist": "A plain-language case that Bitcoin could become the next global reserve currency, covering why it matters now and a short history of money. Aimed at newcomers and conventional investors.",
+    "isbn": "9781838318406",
+    "cover_color": "#070806"
   },
   {
+    "slug": "cryptoeconomics",
     "title": "Cryptoeconomics",
     "subtitle": "Fundamental Principles of Bitcoin",
     "authors": [
@@ -1090,9 +1266,12 @@
     "sources": [
       "libbitcoin wiki (200)",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "gist": "Applies economic principles to Bitcoin to examine its design and common misunderstandings of it. Dense and conceptual rather than a how-to guide, so aimed at readers who already know Bitcoin.",
+    "isbn": "9781735060835"
   },
   {
+    "slug": "kings-of-crypto",
     "title": "Kings of Crypto",
     "subtitle": "One Startup's Quest to Take Cryptocurrency Out of Silicon Valley and Onto Wall Street",
     "authors": [
@@ -1111,9 +1290,12 @@
     "borderline": true,
     "sources": [
       "Harvard Business Review Press / Amazon"
-    ]
+    ],
+    "gist": "A narrative account of Coinbase and its founder Brian Armstrong, following the company from startup to major cryptocurrency exchange. Suited to general readers interested in crypto business history.",
+    "isbn": "9781647820183"
   },
   {
+    "slug": "learning-bitcoin-from-the-command-line",
     "title": "Learning Bitcoin from the Command Line",
     "subtitle": null,
     "authors": [
@@ -1132,9 +1314,11 @@
     "info_link": "https://www.blockchaincommons.com/",
     "sources": [
       "Official Blockchain Commons repo README (license section)"
-    ]
+    ],
+    "gist": "A free tutorial teaching Bitcoin and Lightning by working directly with Bitcoin Core's command-line tools, covering wallets, transactions, Script and timelocks. Aimed at technical readers."
   },
   {
+    "slug": "magic-internet-money",
     "title": "Magic Internet Money",
     "subtitle": "A Book About Bitcoin",
     "authors": [
@@ -1151,9 +1335,12 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
-    ]
+    ],
+    "gist": "A plain-language introduction to Bitcoin by a Canadian finance professional, covering banking, cryptography, economics and governance and questioning common assumptions about money. For general readers.",
+    "isbn": "9781777128401"
   },
   {
+    "slug": "thank-god-for-bitcoin",
     "title": "Thank God for Bitcoin",
     "subtitle": "The Creation, Corruption and Redemption of Money",
     "authors": [
@@ -1171,9 +1358,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/thank-god-for-bitcoin.jpg",
+    "gist": "A multi-author book that began as a Bible study, examining the morality of money, the flaws of the fiat system and how Bitcoin's principles align with Christian teaching. Written for Christian readers curious about Bitcoin.",
+    "isbn": "9781641991216",
+    "cover_color": "#f6983a"
   },
   {
+    "slug": "the-price-of-tomorrow",
     "title": "The Price of Tomorrow",
     "subtitle": "Why Deflation Is the Key to an Abundant Future",
     "authors": [
@@ -1190,9 +1382,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/the-price-of-tomorrow.jpg",
+    "gist": "Argues that technology is inherently deflationary, which strains an economy built on debt and growth, and that societies must adapt. Covers automation, work and monetary policy; Bitcoin figures in the proposed answer. For general readers.",
+    "isbn": "9781999257422",
+    "cover_color": "#242022"
   },
   {
+    "slug": "this-book-will-save-you-time",
     "title": "This Book Will Save You Time",
     "subtitle": null,
     "authors": [
@@ -1209,9 +1406,11 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
-    ]
+    ],
+    "gist": "A short book on time as the scarce resource, drawing on personal finance and Austrian economics to question the 9-to-5 model; the author is a Bitcoin writer. Bitcoin's role in the book is unconfirmed."
   },
   {
+    "slug": "truth-decay",
     "title": "Truth Decay",
     "subtitle": "How Bitcoin Fixes This",
     "authors": [
@@ -1229,9 +1428,11 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A book arguing that fiat money erodes trust and truth and that Bitcoin offers a fix, introducing what Bitcoin is, how it works and how to use it. Aimed at newcomers."
   },
   {
+    "slug": "bitcoin-and-the-american-dream",
     "title": "Bitcoin and the American Dream",
     "subtitle": null,
     "authors": [
@@ -1248,9 +1449,11 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list"
-    ]
+    ],
+    "gist": "A short book written for US policymakers arguing that Bitcoin fits American values and is used by workers, minorities and veterans, not only technologists. Funded via Kickstarter."
   },
   {
+    "slug": "bitcoin-saves-the-world",
     "title": "Bitcoin Saves the World",
     "subtitle": null,
     "authors": [
@@ -1269,9 +1472,11 @@
     "borderline": false,
     "sources": [
       "childrensillustrators.com"
-    ]
+    ],
+    "isbn": "9798985198010"
   },
   {
+    "slug": "la-filosofia-de-bitcoin",
     "title": "La filosofía de Bitcoin",
     "subtitle": "La caída del Estado",
     "authors": [
@@ -1291,9 +1496,11 @@
     "borderline": false,
     "sources": [
       "CriptoNoticias; Planeta/Deusto press sheet"
-    ]
+    ],
+    "gist": "A Spanish-language book arguing that Bitcoin redefines private property and that states lose sovereignty over it, likening Bitcoin to gunpowder, the printing press and the internet. Written in Spanish."
   },
   {
+    "slug": "layered-money",
     "title": "Layered Money",
     "subtitle": "From Gold and Dollars to Bitcoin and Central Bank Digital Currencies",
     "authors": [
@@ -1311,9 +1518,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/layered-money.jpg",
+    "gist": "Traces money as layers built on a base asset such as gold, from Renaissance Florence through central banking to Bitcoin and CBDCs. Written for general readers, with no finance background required.",
+    "isbn": "9781736110515",
+    "cover_color": "#1b70ac"
   },
   {
+    "slug": "mastering-the-lightning-network",
     "title": "Mastering the Lightning Network",
     "subtitle": "A Second Layer Blockchain Protocol for Instant Bitcoin Payments",
     "authors": [
@@ -1337,9 +1549,14 @@
       "nakamotolibrary.org (via search snippets)"
     ],
     "notes": "O'Reilly, Dec 2021.",
-    "borderline": false
+    "borderline": false,
+    "cover": "/covers/mastering-the-lightning-network.jpg",
+    "gist": "A practical guide to the Lightning Network, a second-layer payment protocol for Bitcoin, covering channels, routing, node operation, wire protocol, security and privacy. Aimed at intermediate to advanced readers and developers.",
+    "isbn": "9781492054863",
+    "cover_color": "#fcfcfb"
   },
   {
+    "slug": "the-7th-property",
     "title": "The 7th Property",
     "subtitle": "Bitcoin and the Monetary Revolution",
     "authors": [
@@ -1357,9 +1574,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/the-7th-property.jpg",
+    "gist": "Argues that immutability is a seventh property of money and that central banking is a major moral hazard, examining the Federal Reserve closely before explaining how Bitcoin works. For readers new to Bitcoin.",
+    "isbn": "9780578902623",
+    "cover_color": "#d6262b"
   },
   {
+    "slug": "the-bitcoin-shortcut",
     "title": "The Bitcoin Shortcut",
     "subtitle": null,
     "authors": [
@@ -1376,9 +1598,11 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "isbn": "9780990320265"
   },
   {
+    "slug": "the-blocksize-war",
     "title": "The Blocksize War",
     "subtitle": "The battle over who controls Bitcoin's protocol rules",
     "authors": [
@@ -1399,9 +1623,14 @@
     "sources": [
       "Amazon / Goodreads",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/the-blocksize-war.jpg",
+    "gist": "A chronology of the 2015-2017 dispute over Bitcoin's block size, covering the big-block and small-block camps, SegWit2x and the creation of Bitcoin Cash, and who controls protocol rules. For readers wanting Bitcoin's governance history.",
+    "isbn": "9798721895609",
+    "cover_color": "#7e507b"
   },
   {
+    "slug": "the-bullish-case-for-bitcoin",
     "title": "The Bullish Case for Bitcoin",
     "subtitle": null,
     "authors": [
@@ -1419,9 +1648,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/the-bullish-case-for-bitcoin.jpg",
+    "gist": "An expanded version of Boyapati's essay explaining how money emerges and why he considers Bitcoin superior to gold and fiat as sound money. A short, beginner-friendly read.",
+    "isbn": "9781737204114",
+    "cover_color": "#fdfdfd"
   },
   {
+    "slug": "the-fiat-standard",
     "title": "The Fiat Standard",
     "subtitle": "The Debt Slavery Alternative to Human Civilization",
     "authors": [
@@ -1438,9 +1672,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/the-fiat-standard.jpg",
+    "gist": "Explains the modern fiat monetary system as a feat of engineering, covering the shift from the gold standard to government-backed money, as a companion to The Bitcoin Standard. For readers interested in monetary economics.",
+    "isbn": "9781544526478",
+    "cover_color": "#fefefe"
   },
   {
+    "slug": "the-promise-of-bitcoin",
     "title": "The Promise of Bitcoin",
     "subtitle": "The Future of Money and How It Can Work for You",
     "authors": [
@@ -1457,9 +1696,14 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
-    ]
+    ],
+    "cover": "/covers/the-promise-of-bitcoin.jpg",
+    "gist": "An introduction arguing Bitcoin is a more rational monetary system than traditional money, covering adoption, buying and investing strategies, and mining. Written by an early crypto entrepreneur for general readers.",
+    "isbn": "9781260468670",
+    "cover_color": "#fbfbfa"
   },
   {
+    "slug": "bitcoin-exponential-freedom",
     "title": "Bitcoin & Exponential Freedom",
     "subtitle": "How Hard Money Restores Freedom & Prosperity",
     "authors": [
@@ -1476,9 +1720,11 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Explains money, inflation and central banking from first principles and argues that Bitcoin is a structural improvement on earlier money. Written in plain English for general readers."
   },
   {
+    "slug": "bitcoin-development-philosophy",
     "title": "Bitcoin Development Philosophy",
     "subtitle": "A Guide for Bitcoin Developers",
     "authors": [
@@ -1502,9 +1748,12 @@
       "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
     ],
     "notes": "Online edition circa 2022; print/ebook by Konsensus Network. Year not confirmed, left null.",
-    "borderline": false
+    "borderline": false,
+    "gist": "A guide to the design trade-offs behind Bitcoin, covering decentralization, trustlessness, privacy, finite supply and scaling, with links to further reading. Aimed at developers who already know Bitcoin basics.",
+    "isbn": "9789916723593"
   },
   {
+    "slug": "bitcoin-evangelism",
     "title": "Bitcoin Evangelism",
     "subtitle": null,
     "authors": [
@@ -1521,9 +1770,12 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A guide for helping everyday people understand Bitcoin and blockchain, covering sound money, inflation and common objections such as environmental criticism. Aimed at newcomers and those explaining Bitcoin to others.",
+    "isbn": "9798986346304"
   },
   {
+    "slug": "bitcoin-is-venice",
     "title": "Bitcoin Is Venice",
     "subtitle": null,
     "authors": [
@@ -1542,9 +1794,12 @@
     "info_link": null,
     "sources": [
       "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "Essays arguing from critiques of modern economics and fiat money toward what a Bitcoin-standard economy and a possible new Renaissance might look like, drawing on Venice, Greece and Islamic finance. For readers with some Bitcoin background.",
+    "isbn": "9798985728903"
   },
   {
+    "slug": "bitcoin-everything-divided-by-21-million",
     "title": "Bitcoin: Everything Divided by 21 Million",
     "subtitle": null,
     "authors": [
@@ -1565,9 +1820,11 @@
       "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)",
       "lopp.net bitcoin books pages",
       "Bitcoin Infinity Store; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Explores how people relate to time, money and value and argues Bitcoin answers the problems of fiat money. Written by the creator of the infinity-divided-by-21-million meme for readers already curious about Bitcoin."
   },
   {
+    "slug": "check-your-financial-privilege",
     "title": "Check Your Financial Privilege",
     "subtitle": null,
     "authors": [
@@ -1585,9 +1842,12 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "A collection of essays arguing that people born into reserve currencies hold an advantage over most of the world, with Bitcoin case studies from places such as Cuba, Sudan, Afghanistan and Nigeria. For general readers.",
+    "isbn": "9798985728927"
   },
   {
+    "slug": "do-bitcoin",
     "title": "Do Bitcoin",
     "subtitle": null,
     "authors": [
@@ -1604,9 +1864,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A short beginner's introduction to Bitcoin from first principles, covering why it was created and answering questions about altcoins, NFTs, miners and nodes. Aimed at complete newcomers.",
+    "isbn": "9781914168109"
   },
   {
+    "slug": "the-simplest-bitcoin-book-ever-written",
     "title": "The Simplest Bitcoin Book Ever Written",
     "subtitle": null,
     "authors": [
@@ -1626,6 +1889,7 @@
     ]
   },
   {
+    "slug": "tracers-in-the-dark",
     "title": "Tracers in the Dark",
     "subtitle": "The Global Hunt for the Crime Lords of Cryptocurrency",
     "authors": [
@@ -1646,9 +1910,14 @@
     "sources": [
       "Doubleday / Amazon",
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/tracers-in-the-dark.jpg",
+    "gist": "A true-crime account of investigators tracing cryptocurrency transactions to dismantle darknet markets and criminal networks. Reads as narrative journalism for general readers.",
+    "isbn": "9780593315613",
+    "cover_color": "#161213"
   },
   {
+    "slug": "a-progressive-s-case-for-bitcoin",
     "title": "A Progressive's Case for Bitcoin",
     "subtitle": null,
     "authors": [
@@ -1668,9 +1937,12 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "Argues for Bitcoin from a progressive viewpoint, covering its environmental impact, its effect on poor and marginalized communities, and its role as a check on too-big-to-fail banks. Needs no background knowledge.",
+    "isbn": "9798987636305"
   },
   {
+    "slug": "abundance-through-scarcity",
     "title": "Abundance Through Scarcity",
     "subtitle": null,
     "authors": [
@@ -1687,9 +1959,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "An illustrated, philosophical book arguing that scarcity is a basic feature of the universe and the route to abundance, critiquing modern work as a form of hidden servitude. For readers drawn to Bitcoin's philosophy."
   },
   {
+    "slug": "bitcoin-is-better",
     "title": "Bitcoin is Better",
     "subtitle": null,
     "authors": [
@@ -1706,9 +1980,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Argues that Bitcoin, as simple, transparent, energy-based money, can counter inflation and help build a better world, mixing personal stories, analysis and a call to action. For general readers."
   },
   {
+    "slug": "bitcoin-vs-altcoins",
     "title": "Bitcoin vs Altcoins",
     "subtitle": null,
     "authors": [
@@ -1725,9 +2001,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Compares Bitcoin with other cryptocurrencies, covering proof-of-work versus proof-of-stake, smart contracts, the Lightning Network, decentralization and network effects. Aimed at readers wanting a technical and economic comparison.",
+    "isbn": "9780996061346"
   },
   {
+    "slug": "bitcoin-a-game-theoretic-analysis",
     "title": "Bitcoin: A Game Theoretic Analysis",
     "subtitle": null,
     "authors": [
@@ -1747,9 +2026,14 @@
       "lopp.net bitcoin books pages"
     ],
     "companion_repo": "https://github.com/micah541/GameTheory",
-    "evidence": "micah541 is Micah Warren (his UOregon page links github.com/micah541/censorship); repo 'Game Theory and Probability for Bitcoin' holds mining/game-theory scripts and problem solutions matching the book's topics. Loosely companion, not declared as such."
+    "evidence": "micah541 is Micah Warren (his UOregon page links github.com/micah541/censorship); repo 'Game Theory and Probability for Bitcoin' holds mining/game-theory scripts and problem solutions matching the book's topics. Loosely companion, not declared as such.",
+    "cover": "/covers/bitcoin-a-game-theoretic-analysis.jpg",
+    "gist": "A mathematics textbook applying probability and game theory to Bitcoin's security, covering Nakamoto consensus, selfish mining, attack incentives and mining economics. Aimed at students and researchers.",
+    "isbn": "9783110772845",
+    "cover_color": "#8bc9e5"
   },
   {
+    "slug": "broken-money",
     "title": "Broken Money",
     "subtitle": "Why Our Financial System Is Failing Us and How We Can Make It Better",
     "authors": [
@@ -1767,9 +2051,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/broken-money.jpg",
+    "gist": "Traces the history of money as technology, from shell money and gold to central banks and Bitcoin, and argues the current financial system is failing and could be improved. Suited to general readers.",
+    "isbn": "9798988666325",
+    "cover_color": "#fdfdfd"
   },
   {
+    "slug": "cryptosovereignty",
     "title": "Cryptosovereignty",
     "subtitle": null,
     "authors": [
@@ -1791,9 +2080,12 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "A collection of essays on Bitcoin, sovereignty and cryptography, approached through continental political philosophy. Suited to readers interested in philosophy of Bitcoin.",
+    "isbn": "9798985728989"
   },
   {
+    "slug": "decrypting-money",
     "title": "Decrypting Money",
     "subtitle": null,
     "authors": [],
@@ -1808,9 +2100,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets) (collected authors)"
-    ]
+    ],
+    "gist": "An introduction to Bitcoin for general readers, covering blockchains, mining, private keys and the history of money from fiat to cryptocurrency, without technical jargon.",
+    "isbn": "9781544535982"
   },
   {
+    "slug": "die-orange-pille",
     "title": "Die orange Pille",
     "subtitle": "Warum Bitcoin weit mehr als nur ein neues Geld ist",
     "authors": [
@@ -1832,9 +2127,11 @@
     "sources": [
       "LovelyBooks (ISBN 9783949098451; dtv paperback 9783423352291, 2024)",
       "Blocktrainer / ceecee.cc / dtv (search)"
-    ]
+    ],
+    "gist": "A personal account by a German literary critic of his path into Bitcoin, explaining the technology and the case against central-bank money with humour. Written in German for newcomers; not an investment guide."
   },
   {
+    "slug": "fiat-ruins-everything",
     "title": "Fiat Ruins Everything",
     "subtitle": null,
     "authors": [
@@ -1855,9 +2152,12 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "Argues that debasement of money is the root of many social problems, from banking and real estate to education and art, and that Bitcoin can reverse them. Written for general readers.",
+    "isbn": "9798992349320"
   },
   {
+    "slug": "gradually-then-suddenly",
     "title": "Gradually, Then Suddenly",
     "subtitle": "A Framework for Understanding Bitcoin as Money",
     "authors": [
@@ -1876,9 +2176,14 @@
     "sources": [
       "nakamotoinstitute.org library page (200, 'Read online')",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "cover": "/covers/gradually-then-suddenly.jpg",
+    "gist": "Parker Lewis's essay series on Bitcoin and money, collected as a book that builds an intuitive framework for understanding Bitcoin as hard money. Aimed at non-technical readers.",
+    "isbn": "9798218292874",
+    "cover_color": "#dfe1d5"
   },
   {
+    "slug": "hidden-repression",
     "title": "Hidden Repression",
     "subtitle": "How the IMF and World Bank Sell Exploitation as Development",
     "authors": [
@@ -1896,9 +2201,11 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "isbn": "9798987636404"
   },
   {
+    "slug": "history-echoes-bitcoin",
     "title": "History Echoes Bitcoin",
     "subtitle": null,
     "authors": [
@@ -1915,9 +2222,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Examines Bitcoin's characteristics through historical examples, such as the Iroquois Confederacy and debates over communism and capitalism. For Bitcoin readers interested in history."
   },
   {
+    "slug": "mastering-bitcoin",
     "title": "Mastering Bitcoin",
     "subtitle": "Programming the Open Blockchain (3rd Edition)",
     "authors": [
@@ -1940,9 +2249,14 @@
       "lopp.net bitcoin books pages"
     ],
     "notes": "1st ed. 2014 (subtitle 'Unlocking Digital Cryptocurrencies', Antonopoulos alone), 2nd ed. 2017, 3rd ed. Dec 2023 co-authored with David A. Harding. Translations: Spanish (community), Japanese (NTT出版, 『ビットコインとブロックチェーン』), many others.",
-    "borderline": false
+    "borderline": false,
+    "cover": "/covers/mastering-bitcoin.jpg",
+    "gist": "A technical reference on Bitcoin, covering keys, addresses, transactions, the peer-to-peer network, mining and security, plus Taproot and Lightning. The third edition was updated by David Harding; for developers and technical readers.",
+    "isbn": "9781098150099",
+    "cover_color": "#fdfdfc"
   },
   {
+    "slug": "number-go-up",
     "title": "Number Go Up",
     "subtitle": "Inside Crypto's Wild Rise and Staggering Fall",
     "authors": [
@@ -1961,9 +2275,14 @@
     "borderline": true,
     "sources": [
       "Currency / Amazon"
-    ]
+    ],
+    "cover": "/covers/number-go-up.jpg",
+    "gist": "A journalist's investigation of the crypto boom and bust, covering Sam Bankman-Fried and FTX, pig-butchering scams and the promoters behind crypto's rise. Critical of the industry; for general readers.",
+    "isbn": "9781399611350",
+    "cover_color": "#0d0d0d"
   },
   {
+    "slug": "proof-of-money",
     "title": "Proof of Money",
     "subtitle": null,
     "authors": [
@@ -1980,9 +2299,11 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list"
-    ]
+    ],
+    "gist": "A Bitcoin primer treating it as an alternative monetary model rather than a trading vehicle, covering it as a bearer asset and store of value. Aimed at readers who know crypto basics."
   },
   {
+    "slug": "softwar",
     "title": "Softwar",
     "subtitle": "A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin",
     "authors": [
@@ -2000,9 +2321,11 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list"
-    ]
+    ],
+    "gist": "Argues that Bitcoin's proof-of-work gives cyberspace a physical form of power projection and deterrence, with national-security implications. Expanded from an MIT thesis by a US Space Force officer."
   },
   {
+    "slug": "the-bible-and-bitcoin",
     "title": "The Bible and Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2019,9 +2342,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A Christian introduction to Bitcoin by a pastor, covering the biblical case for honest money, how Bitcoin works, and critiques of fiat money and fractional reserve banking. Aimed at Christian readers new to Bitcoin."
   },
   {
+    "slug": "the-bitcoin-handbook",
     "title": "The Bitcoin Handbook",
     "subtitle": "Key Concepts in Economics, Technology & Psychology",
     "authors": [
@@ -2039,9 +2364,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
-    ]
+    ],
+    "cover": "/covers/the-bitcoin-handbook.jpg",
+    "gist": "A short, illustrated collection of frameworks, mental models and heuristics for understanding money and Bitcoin in the digital age. Aimed at general readers who want visual explanations of key concepts.",
+    "isbn": "9789916697986",
+    "cover_color": "#f8737b"
   },
   {
+    "slug": "the-bitcoin-dollar",
     "title": "The Bitcoin-Dollar",
     "subtitle": null,
     "authors": [
@@ -2062,9 +2392,12 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "Argues that money is technology for carrying trust across time and space, and that Bitcoin is the next step in money's evolution rather than a mere dollar replacement. Draws on economics and monetary history.",
+    "isbn": "9798987636343"
   },
   {
+    "slug": "the-hidden-cost-of-money",
     "title": "The Hidden Cost of Money",
     "subtitle": null,
     "authors": [
@@ -2081,9 +2414,12 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list"
-    ]
+    ],
+    "gist": "A long, critical look at how money shapes social, economic and political life, arguing that many modern problems trace back to the monetary system and that Bitcoin offers a way out.",
+    "isbn": "9781738934102"
   },
   {
+    "slug": "the-philosophy-of-bitcoin",
     "title": "The Philosophy of Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2101,9 +2437,12 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "Translation of a Spanish work examining Bitcoin's nature and political consequences. Argues that money needs no state backing, that nation-states are not the only viable political form, and that Bitcoin makes property absolute.",
+    "isbn": "9798987636428"
   },
   {
+    "slug": "why-bitcoin",
     "title": "Why Bitcoin?",
     "subtitle": null,
     "authors": [
@@ -2120,9 +2459,12 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'; bitcoin-resources.com/books"
-    ]
+    ],
+    "gist": "A collection of short essays explaining why Bitcoin exists, its global impact and personal significance. Written for newcomers and experienced users alike, with no economics or computing background needed.",
+    "isbn": "9789916697962"
   },
   {
+    "slug": "bitcoin-explained-like-i-m-5",
     "title": "Bitcoin Explained Like I'm 5",
     "subtitle": "A Simple Guide",
     "authors": [
@@ -2139,9 +2481,11 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin Books'"
-    ]
+    ],
+    "gist": "A short illustrated beginner's guide to Bitcoin using simple explanations and cartoon characters. It grew out of an internal training presentation at a Bitcoin exchange."
   },
   {
+    "slug": "bitcoin-prophecy",
     "title": "Bitcoin Prophecy",
     "subtitle": null,
     "authors": [
@@ -2158,9 +2502,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Argues for Bitcoin as an alternative to broken monetary systems, using Argentina's history of inflation, devaluation and exchange controls as the case study. Written by a Bitcoin meetup organizer."
   },
   {
+    "slug": "hijacking-bitcoin",
     "title": "Hijacking Bitcoin",
     "subtitle": "The Hidden History of BTC",
     "authors": [
@@ -2178,9 +2524,14 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/hijacking-bitcoin.jpg",
+    "gist": "A history of Bitcoin's development and the blocksize wars from Roger Ver's perspective, arguing that a small group of insiders changed the protocol after Satoshi left. For readers interested in the BTC versus BCH dispute.",
+    "isbn": "9798989492435",
+    "cover_color": "#f4911f"
   },
   {
+    "slug": "i-am-not-your-bruh",
     "title": "I Am Not Your Bruh",
     "subtitle": null,
     "authors": [
@@ -2202,6 +2553,7 @@
     ]
   },
   {
+    "slug": "intro-to-bitcoin",
     "title": "Intro to Bitcoin",
     "subtitle": "Hope for a Better World",
     "authors": [
@@ -2218,9 +2570,11 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A beginner-friendly primer covering Bitcoin basics, the Lightning Network, mining and energy, human rights and common myths. Written for people new to Bitcoin."
   },
   {
+    "slug": "introduction-to-bitcoin",
     "title": "Introduction to Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2237,9 +2591,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A historical survey of the characteristics of money, arguing that Bitcoin shows the traits of sound money. Written by a Philippine law professor for general readers."
   },
   {
+    "slug": "national-security-in-the-digital-age",
     "title": "National Security in the Digital Age",
     "subtitle": null,
     "authors": [
@@ -2257,9 +2613,12 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A multi-author volume arguing that Bitcoin is a tool of modern statecraft, with essays on its implications for national security and great-power competition. Aimed at policy-minded readers.",
+    "isbn": "9798990625310"
   },
   {
+    "slug": "parallel",
     "title": "Parallel",
     "subtitle": null,
     "authors": [
@@ -2278,9 +2637,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Examines Bitcoin as a social and cultural movement rather than only a speculative asset, drawing comparisons with historical revolutions. Co-written with Knut Svanholm and Daniel Prince."
   },
   {
+    "slug": "pay-attention-to-bitcoin",
     "title": "Pay Attention to Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2300,6 +2661,7 @@
     ]
   },
   {
+    "slug": "resistance-money",
     "title": "Resistance Money",
     "subtitle": "A Philosophical Case for Bitcoin",
     "authors": [
@@ -2322,9 +2684,14 @@
     "sources": [
       "Routledge; resistance.money FAQ; Princeton book talk",
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/resistance-money.jpg",
+    "gist": "An academic philosophical case that Bitcoin is a net good, examining its monetary policy, censorship resistance, privacy, inclusion and energy use, and testing the strongest objections. Written for readers from newcomers to skeptics.",
+    "isbn": "9781040050170",
+    "cover_color": "#fefefe"
   },
   {
+    "slug": "shells-to-satoshi",
     "title": "Shells to Satoshi",
     "subtitle": null,
     "authors": [
@@ -2343,9 +2710,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A history of money from ancient times to the digital age, tracing its evolution through historical and anthropological perspectives to the rise of Bitcoin.",
+    "isbn": "9781964944005"
   },
   {
+    "slug": "the-atlas-maneuver",
     "title": "The Atlas Maneuver",
     "subtitle": null,
     "authors": [
@@ -2364,9 +2734,14 @@
     "borderline": false,
     "sources": [
       "Grand Central (ISBN 9781538721032); BookTrib interview"
-    ]
+    ],
+    "cover": "/covers/the-atlas-maneuver.jpg",
+    "gist": "A Cotton Malone thriller in which a Swiss bank, the CIA and hidden wartime gold collide with a plot to weaponize bitcoin against the world's financial systems. Fiction for thriller readers.",
+    "isbn": "9781538721032",
+    "cover_color": "#d57341"
   },
   {
+    "slug": "the-big-bitcoin-book",
     "title": "The Big Bitcoin Book",
     "subtitle": null,
     "authors": [
@@ -2384,9 +2759,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A visual history of Bitcoin's first fifteen years, aimed at general readers.",
+    "isbn": "9798218599799"
   },
   {
+    "slug": "the-bitcoin-miners-almanac",
     "title": "The Bitcoin Miners Almanac",
     "subtitle": null,
     "authors": [
@@ -2406,9 +2784,11 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "An introduction to Bitcoin mining covering how it works and the operational and business considerations, followed by interviews and case studies of different mining business models."
   },
   {
+    "slug": "the-bitcoin-singularity",
     "title": "The Bitcoin Singularity",
     "subtitle": null,
     "authors": [
@@ -2427,9 +2807,11 @@
     "borderline": false,
     "sources": [
       "Vellichor Press; Better Read listing"
-    ]
+    ],
+    "gist": "A young-adult dystopian thriller set in London in 2026, in which a teenager and her AI companion try to protect coins vital to Bitcoin's stability from a villain seeking control. Fiction."
   },
   {
+    "slug": "the-bushido-of-bitcoin",
     "title": "The Bushido of Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2446,9 +2828,11 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list"
-    ]
+    ],
+    "gist": "Presents ten virtues, such as courage, honor and self-control, as a code of character for people living on a Bitcoin standard, drawing on samurai ethics and Austrian economics."
   },
   {
+    "slug": "the-conservative-case-for-bitcoin",
     "title": "The Conservative Case for Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2465,9 +2849,11 @@
     "info_link": null,
     "sources": [
       "thingelstad.com Bitcoin Books list"
-    ]
+    ],
+    "gist": "Argues that Bitcoin's hard money supports traditional American conservative values, including family stability and protection from inflation. Written by a Bitcoin mining company researcher."
   },
   {
+    "slug": "the-dao-of-bitcoin",
     "title": "The Dao of Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2484,9 +2870,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Frames Bitcoin as energy money tied to human time and effort, using Daoist ideas about the Dao and qi, and explores decentralization and the orange-pill awakening."
   },
   {
+    "slug": "the-genesis-book",
     "title": "The Genesis Book",
     "subtitle": "The Story of the People and Projects That Inspired Bitcoin",
     "authors": [
@@ -2506,9 +2894,12 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "A history of the ideas and people behind Bitcoin before its launch, including the cypherpunks, David Chaum's ecash and Wei Dai's b-money. By a Bitcoin journalist.",
+    "isbn": "9798987636497"
   },
   {
+    "slug": "the-gospel-according-to-bitcoin",
     "title": "The Gospel According to Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2529,6 +2920,7 @@
     ]
   },
   {
+    "slug": "the-nakamoto-consensus",
     "title": "The Nakamoto Consensus",
     "subtitle": null,
     "authors": [
@@ -2545,9 +2937,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A Bitcoin thriller about the disappearance of Satoshi Nakamoto, in which a protagonist must protect Satoshi and defend Bitcoin from those trying to corrupt it. Fiction, with a Socratic dialogue element."
   },
   {
+    "slug": "twenty-one-questions",
     "title": "Twenty One Questions",
     "subtitle": null,
     "authors": [
@@ -2565,9 +2959,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A beginner's guide to Bitcoin organized around 21 questions, written with an AI language model and contributions from several Bitcoin authors. Aimed at newcomers."
   },
   {
+    "slug": "walking-banks",
     "title": "Walking Banks",
     "subtitle": null,
     "authors": [
@@ -2584,9 +2980,11 @@
     "info_link": "https://booklife.com/project/walking-banks-95910",
     "sources": [
       "Nostr/Stacker News community posts (search)"
-    ]
+    ],
+    "gist": "A murder-mystery thriller set in Beijing in which a U.S. Embassy official is killed, and a hidden bitcoin fortune and a central bank digital currency opponent figure in the case. Fiction."
   },
   {
+    "slug": "would-mao-hold-bitcoin",
     "title": "Would Mao Hold Bitcoin?",
     "subtitle": null,
     "authors": [
@@ -2607,9 +3005,11 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books); nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Traces China's relationship with Bitcoin, from government bans to citizen adoption, and examines how the digital yuan and CBDCs interact with open-source freedom technology in techno-nationalist China."
   },
   {
+    "slug": "21-views-from-mount-fuji",
     "title": "21 Views From Mount Fuji",
     "subtitle": null,
     "authors": [
@@ -2630,6 +3030,7 @@
     ]
   },
   {
+    "slug": "bitcoin-age",
     "title": "Bitcoin Age",
     "subtitle": null,
     "authors": [
@@ -2646,9 +3047,12 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Examines humanity's search for ideal money, covering the dollar's rise, global banking and inflationary money creation, and presents Bitcoin as a store of value alternative to the credit-money system.",
+    "isbn": "9781736110577"
   },
   {
+    "slug": "bitcoin-consolidated",
     "title": "Bitcoin Consolidated",
     "subtitle": null,
     "authors": [
@@ -2668,6 +3072,7 @@
     ]
   },
   {
+    "slug": "bitcoin-is-for-everyone",
     "title": "Bitcoin Is for Everyone",
     "subtitle": null,
     "authors": [
@@ -2684,9 +3089,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Argues that rising costs of housing, tuition and groceries trace back to a broken monetary system, and presents Bitcoin as the fix. Written for general readers by a financial journalist and podcast host.",
+    "isbn": "9781804091142"
   },
   {
+    "slug": "bitcoin-one-million",
     "title": "Bitcoin One Million",
     "subtitle": null,
     "authors": [
@@ -2704,9 +3112,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Makes a math-and-logic case that Bitcoin is on a path to $1 million, comparing it with stocks, bonds, gold and real estate and discussing allocation with the Kelly Criterion."
   },
   {
+    "slug": "break-the-stake",
     "title": "Break the Stake",
     "subtitle": null,
     "authors": [
@@ -2726,6 +3136,7 @@
     ]
   },
   {
+    "slug": "energy-use-in-bitcoin-mining",
     "title": "Energy Use in Bitcoin Mining",
     "subtitle": "The Environmental Impact of Cryptocurrencies",
     "authors": [
@@ -2745,9 +3156,12 @@
     "info_link": null,
     "sources": [
       "Routledge listing (search)"
-    ]
+    ],
+    "gist": "An academic assessment of Bitcoin mining's electricity use and environmental damages, including climate, air pollution, e-waste, water and land use, with a discussion of greener mining and policy obstacles.",
+    "isbn": "9781032569192"
   },
   {
+    "slug": "exponential-gold",
     "title": "Exponential Gold",
     "subtitle": null,
     "authors": [
@@ -2768,6 +3182,7 @@
     ]
   },
   {
+    "slug": "future-proof",
     "title": "Future Proof",
     "subtitle": null,
     "authors": [
@@ -2784,9 +3199,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Links Bitcoin and longevity, presenting self-custody of both health and money as the core idea, with AI-driven health tools and Bitcoin as financial security. A self-published follow-up to the author's beginner primer.",
+    "isbn": "9798999184221"
   },
   {
+    "slug": "modern-chains",
     "title": "Modern Chains",
     "subtitle": null,
     "authors": [
@@ -2803,9 +3221,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A moral and philosophical critique of the modern monetary system as a mechanism of economic enslavement, targeting fractional reserve banking, debt-based money, inflation and usury, and proposing a monetary alternative."
   },
   {
+    "slug": "principles-of-bitcoin",
     "title": "Principles of Bitcoin",
     "subtitle": "Technology, Economics, Politics, and Philosophy",
     "authors": [
@@ -2824,9 +3244,14 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "cover": "/covers/principles-of-bitcoin.jpg",
+    "gist": "A first-principles examination of Bitcoin through technology, economics, politics and philosophy, by a former Goldman Sachs lawyer. Aimed at readers seeking a structured framework for analyzing Bitcoin.",
+    "isbn": "9780231220125",
+    "cover_color": "#f8f3e9"
   },
   {
+    "slug": "satoshi-s-gift",
     "title": "Satoshi's Gift",
     "subtitle": null,
     "authors": [
@@ -2843,9 +3268,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "An introduction to Bitcoin's history, promise and power, covering monetary history and the forces behind its creation and arguing against debt, inflation and centralized control. A debut by a practicing attorney."
   },
   {
+    "slug": "self-bitcoinization",
     "title": "Self Bitcoinization",
     "subtitle": null,
     "authors": [
@@ -2862,9 +3289,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A philosophical take on Bitcoin by an emergency physician, discussing its societal and individual impact and the implications of the current monetary system."
   },
   {
+    "slug": "the-42-page-bitcoin-book",
     "title": "The 42-Page Bitcoin Book",
     "subtitle": null,
     "authors": [
@@ -2884,6 +3313,7 @@
     ]
   },
   {
+    "slug": "the-big-print",
     "title": "The Big Print",
     "subtitle": "What Happened to America and How Sound Money Will Fix It",
     "authors": [
@@ -2901,9 +3331,11 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "gist": "Examines how America's monetary system went astray and caused pain through inflation, then offers solutions based on sound money. Also gives investment guidance on protecting against inflation."
   },
   {
+    "slug": "the-bitcoin-times",
     "title": "The Bitcoin Times",
     "subtitle": null,
     "authors": [
@@ -2924,6 +3356,7 @@
     ]
   },
   {
+    "slug": "the-devil-takes-bitcoin",
     "title": "The Devil Takes Bitcoin",
     "subtitle": "Cryptocurrency Crimes and the Japanese Connection",
     "authors": [
@@ -2943,9 +3376,12 @@
     "sources": [
       "Scribe Publications (ISBN 9781761381300); FCCJ book event",
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A nonfiction account of cryptocurrency crime centered on the collapse of the Mt. Gox exchange in Tokyo, with the Silk Road marketplace and Japanese connections. Narrative reporting by the author of Tokyo Vice.",
+    "isbn": "9781964992174"
   },
   {
+    "slug": "the-great-harvest",
     "title": "The Great Harvest",
     "subtitle": null,
     "authors": [
@@ -2965,6 +3401,7 @@
     ]
   },
   {
+    "slug": "the-little-book-of-bitcoin",
     "title": "The Little Book of Bitcoin",
     "subtitle": null,
     "authors": [
@@ -2982,9 +3419,12 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A Wiley guide for investors explaining Bitcoin, blockchain basics, Bitcoin as a store of value, and how institutions approach trading and holding it. Written by a hedge-fund manager for readers from newcomers to professionals, with a foreword by Michael Saylor.",
+    "isbn": "9781394286645"
   },
   {
+    "slug": "the-mysterious-mr-nakamoto",
     "title": "The Mysterious Mr. Nakamoto",
     "subtitle": "A Fifteen-Year Quest to Unmask the Secret Genius Behind Crypto",
     "authors": [
@@ -3002,9 +3442,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A journalist's account of his fifteen-year hunt for Bitcoin's creator, weighing suspects such as Hal Finney and Craig Wright and drawing on interviews, public records and stylometry. For general readers interested in Satoshi's identity and Bitcoin's cypherpunk roots."
   },
   {
+    "slug": "the-privatization-of-money",
     "title": "The Privatization of Money",
     "subtitle": null,
     "authors": [
@@ -3024,6 +3466,7 @@
     ]
   },
   {
+    "slug": "the-satoshi-papers",
     "title": "The Satoshi Papers",
     "subtitle": null,
     "authors": [
@@ -3044,9 +3487,11 @@
     "sources": [
       "Bitcoin Magazine Books catalogue",
       "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
-    ]
+    ],
+    "gist": "An edited volume of ten essays on how money and the state relate in a world with Bitcoin, framed by the Federalist and Anti-Federalist debates. Contributors include academics and policy writers; aimed at readers interested in Bitcoin policy and political theory."
   },
   {
+    "slug": "why-bitcoin-was-inevitable",
     "title": "Why Bitcoin Was Inevitable",
     "subtitle": null,
     "authors": [
@@ -3067,6 +3512,7 @@
     ]
   },
   {
+    "slug": "bitcoin-l-eletto",
     "title": "Bitcoin l'eletto",
     "subtitle": null,
     "authors": [
@@ -3085,9 +3531,12 @@
     "borderline": false,
     "sources": [
       "Unilibro (ISBN 9788892726994)"
-    ]
+    ],
+    "gist": "An Italian novel inspired by Bitcoin's birth and the figure of Satoshi Nakamoto, mixing real events with fiction to critique centralized finance and prompt questions about how money is controlled. For general Italian readers.",
+    "isbn": "9788892726994"
   },
   {
+    "slug": "black-red-and-orange",
     "title": "Black, Red, and Orange",
     "subtitle": null,
     "authors": [
@@ -3107,6 +3556,7 @@
     ]
   },
   {
+    "slug": "crypto-for-kids",
     "title": "Crypto for Kids",
     "subtitle": "Discover Bitcoin and Blockchain the Fun Way",
     "authors": [
@@ -3125,9 +3575,11 @@
     "borderline": true,
     "sources": [
       "BoD (ISBN 9783695185023)"
-    ]
+    ],
+    "gist": "A children's book following a group of young characters through story-driven adventures, puzzles and games that introduce Bitcoin, blockchain, wallets, mining, NFTs, smart contracts and DeFi. Aimed at ages 9 and up."
   },
   {
+    "slug": "defending-bitcoin",
     "title": "Defending Bitcoin",
     "subtitle": "Industrial-Grade Cybersecurity for the Monetary Grid",
     "authors": [
@@ -3147,9 +3599,12 @@
     "sources": [
       "defendingbitcoin.com (200, 'The complete book, read in your browser for free'); subtitle per Bitcoin Infinity/BTC Prague bio",
       "nakamotolibrary.org (via search snippets); Bitcoin Infinity Show"
-    ]
+    ],
+    "gist": "Applies industrial control-system security standards (ISA/IEC 62443), defense-in-depth and threat modeling to Bitcoin, arguing it is critical monetary infrastructure. Aimed at bitcoiners and technical security professionals; foreword by Mikko Hyppönen.",
+    "isbn": "9789908976624"
   },
   {
+    "slug": "digital-real-estate",
     "title": "Digital Real Estate",
     "subtitle": null,
     "authors": [
@@ -3166,9 +3621,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A real estate developer's argument that Bitcoin is taking over the monetary premium real estate has long held as a store of value. Covers Bitcoin-backed mortgages, pricing property in bitcoin and treasury strategies for developers."
   },
   {
+    "slug": "sound-money-living-water",
     "title": "Sound Money, Living Water",
     "subtitle": null,
     "authors": [
@@ -3188,6 +3645,7 @@
     ]
   },
   {
+    "slug": "the-belief-machine",
     "title": "The Belief Machine",
     "subtitle": null,
     "authors": [
@@ -3204,9 +3662,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Not a technical Bitcoin primer; it uses Bitcoin to examine how identity, belonging, status and inherited beliefs shape what feels true, and why facts rarely change minds. Touches on self-custody, volatility and patience."
   },
   {
+    "slug": "the-bitcoin-mask",
     "title": "The Bitcoin Mask",
     "subtitle": "Who Owned Satoshi",
     "authors": [
@@ -3225,9 +3685,12 @@
     "borderline": false,
     "sources": [
       "BoD shop"
-    ]
+    ],
+    "gist": "A 2026 financial thriller about Bitcoin, anonymity and market manipulation, following a Swiss-Italian economist and a young trader who loses family savings. It is less about who Satoshi is than who benefits from the mystery.",
+    "isbn": "9783696381684"
   },
   {
+    "slug": "the-most-american-idea",
     "title": "The Most American Idea",
     "subtitle": null,
     "authors": [
@@ -3247,6 +3710,7 @@
     ]
   },
   {
+    "slug": "the-physics-of-bitcoin",
     "title": "The Physics of Bitcoin",
     "subtitle": null,
     "authors": [
@@ -3263,9 +3727,11 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "Applies statistical physics and power-law analysis to Bitcoin's long-term growth and price, developing the author's Bitcoin Power Law model from first principles and fifteen years of data. For readers comfortable with quantitative arguments."
   },
   {
+    "slug": "unconfiscatable",
     "title": "Unconfiscatable",
     "subtitle": null,
     "authors": [
@@ -3283,9 +3749,12 @@
     "info_link": null,
     "sources": [
       "nakamotolibrary.org (via search snippets)"
-    ]
+    ],
+    "gist": "A 2026 debut thriller about a Chicago probate lawyer who inherits the keys to billions in Bitcoin and is pursued by a cartel, the FBI and a government operative. Fiction for general readers.",
+    "isbn": "9798995750604"
   },
   {
+    "slug": "21-futures",
     "title": "21 Futures",
     "subtitle": "Tales from the Timechain",
     "authors": [
@@ -3303,9 +3772,11 @@
     "info_link": null,
     "sources": [
       "Konsensus Network catalog (via litres.ru author page / konsensus.net search); Bitcoin Magazine review"
-    ]
+    ],
+    "gist": "A Bitcoin fiction anthology of twenty-one short stories by twenty-one authors, exploring privacy, personal liberty and financial freedom through cypherpunk-style speculative fiction. Edited by Philip Charter and Niko Laamanen."
   },
   {
+    "slug": "21-ways",
     "title": "21 Ways",
     "subtitle": "21 Ways To Look At Bitcoin",
     "authors": [
@@ -3323,9 +3794,11 @@
     "info_link": "https://dergigi.com/books/",
     "sources": [
       "21-ways.com (200), linked from dergigi.com/books"
-    ]
+    ],
+    "gist": "Gigi's follow-up to 21 Lessons, looking at Bitcoin from many angles using metaphors from biology, physics and engineering. Described as a work in progress, with some chapters already public."
   },
   {
+    "slug": "b-is-for-bitcoin",
     "title": "B Is for Bitcoin",
     "subtitle": null,
     "authors": [
@@ -3342,9 +3815,11 @@
     "info_link": null,
     "sources": [
       "Cointelegraph Magazine kids-books article"
-    ]
+    ],
+    "gist": "A children's alphabet book that pairs each letter with a Bitcoin or crypto term, such as blockchain or consensus, with a short explanation and illustration. Also suited to adults wanting a basic introduction."
   },
   {
+    "slug": "bitcoin-2140-genesis",
     "title": "Bitcoin 2140 Genesis",
     "subtitle": "A Tale of Digital Gold and Human Freedom",
     "authors": [
@@ -3361,9 +3836,12 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin Books'"
-    ]
+    ],
+    "gist": "First novel in a six-book science fiction series imagining a world after fiat currencies collapse and incorruptible money reshapes civilization, featuring a Council of Satoshi. Fiction for readers who like Bitcoin-themed speculative stories.",
+    "isbn": "9798999234803"
   },
   {
+    "slug": "bitcoin-a-jine-kryptopenize-budoucnosti",
     "title": "Bitcoin a jiné kryptopeníze budoucnosti",
     "subtitle": "Historie, ekonomie a technologie kryptoměn",
     "authors": [
@@ -3385,9 +3863,11 @@
     "borderline": false,
     "sources": [
       "Grada; VŠFS and CEVRO catalogues"
-    ]
+    ],
+    "gist": "A Czech guide to the history, economics and technology of Bitcoin and other cryptocurrencies, asking whether Bitcoin can work as digital money and whether it is a bubble. Written by two economists, with a beginner's guide included; the 2018 first edition was by Dominik Stroukal and Jan Skalicky."
   },
   {
+    "slug": "bitcoin-alpha-v0-01",
     "title": "Bitcoin Alpha v0.01",
     "subtitle": null,
     "authors": [
@@ -3404,9 +3884,11 @@
     "info_link": null,
     "sources": [
       "bitcoin-resources.com/books"
-    ]
+    ],
+    "gist": "A book presenting the original Bitcoin source code released by Satoshi Nakamoto in 2009, with color-coded and numbered lines for easy reference. For readers who want to read the first implementation directly."
   },
   {
+    "slug": "bitcoin-design-guide",
     "title": "Bitcoin Design Guide",
     "subtitle": null,
     "authors": [
@@ -3426,9 +3908,11 @@
       "bitcoin.design/guide (200)"
     ],
     "borderline": true,
-    "notes": "Online design reference, not a book."
+    "notes": "Online design reference, not a book.",
+    "gist": "A free, open-source guide for designers and developers building non-custodial Bitcoin products, with design principles, reference wallet designs, a glossary and a technology primer. Version 2 focuses on Lightning wallets."
   },
   {
+    "slug": "bitcoin-diploma",
     "title": "Bitcoin Diploma",
     "subtitle": "Mi Primer Bitcoin / My First Bitcoin curriculum",
     "authors": [
@@ -3447,9 +3931,11 @@
     "sources": [
       "Official MyFirstBitcoin GitHub org (200). Old Bitcoin-Diploma-2025 repo now 404",
       "konsensus.net; nobsbitcoin.com"
-    ]
+    ],
+    "gist": "A free, open-source student workbook for a 10-week Bitcoin course, covering the history of money, problems with fiat, the Lightning Network and how Bitcoin works technically. Created for school education, with many translations."
   },
   {
+    "slug": "bitcoin-en-blockchain",
     "title": "Bitcoin en Blockchain",
     "subtitle": null,
     "authors": [
@@ -3469,9 +3955,11 @@
     "borderline": false,
     "sources": [
       "Lenthe Publishers; securities.io NL"
-    ]
+    ],
+    "gist": "A Dutch practical guide by a tech journalist to buying, holding and safely keeping bitcoin, plus the theory and history of Bitcoin and blockchain, largely in question-and-answer form. Light on monetary theory."
   },
   {
+    "slug": "bitcoin-for-kiddos",
     "title": "Bitcoin for Kiddos",
     "subtitle": null,
     "authors": [
@@ -3489,9 +3977,12 @@
     "info_link": null,
     "sources": [
       "bitcoin-resources.com/books"
-    ]
+    ],
+    "gist": "A children's picture book telling the story of Bitcoin, written and illustrated by a couple to start playful conversations with kids about money. Aimed at young children and their parents.",
+    "isbn": "9780578957234"
   },
   {
+    "slug": "bitcoin-mining-economics",
     "title": "Bitcoin Mining Economics",
     "subtitle": null,
     "authors": [
@@ -3513,9 +4004,11 @@
     "info_link": "https://braiins.com/books/bitcoin-mining-economics",
     "sources": [
       "braiins.com (search)"
-    ]
+    ],
+    "gist": "A Braiins book on mining as a business, covering energy markets, intermittent power, stranded natural gas, cooling options, debt financing and future revenue. Written mainly by Daniel Frumkin, with contributors including Karim Helmy."
   },
   {
+    "slug": "bitcoin-programming",
     "title": "Bitcoin Programming",
     "subtitle": "A textbook",
     "authors": [
@@ -3535,6 +4028,7 @@
     ]
   },
   {
+    "slug": "bitcoin-a-work-in-progress",
     "title": "Bitcoin: A Work in Progress",
     "subtitle": null,
     "authors": [
@@ -3553,9 +4047,12 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "evidence": "Repo owned by author's GitHub account Sjors; description 'Bitcoin: A Work in Progress (book source code)', homepage btcwip.com (official book site)"
+    "evidence": "Repo owned by author's GitHub account Sjors; description 'Bitcoin: A Work in Progress (book source code)', homepage btcwip.com (official book site)",
+    "gist": "A Bitcoin Core contributor's account of recent Bitcoin developments, including Taproot, protecting open source code from bugs and malware, and blockchain growth, with links to matching Bitcoin, Explained podcast episodes. For readers wanting a technical but accessible overview.",
+    "isbn": "9789090360423"
   },
   {
+    "slug": "bitcoin-odluka-penez-od-statu",
     "title": "Bitcoin: Odluka peněz od státu",
     "subtitle": null,
     "authors": [
@@ -3575,9 +4072,11 @@
     "borderline": false,
     "sources": [
       "Moravian Library record; Braiins store"
-    ]
+    ],
+    "gist": "A Czech book on separating money from the state, covering the Austrian school of economics, time preference, monetary history, and why the author thinks only Bitcoin can succeed as sound money."
   },
   {
+    "slug": "energy-the-flip-side-of-money",
     "title": "Energy, the Flip Side of Money",
     "subtitle": null,
     "authors": [
@@ -3595,9 +4094,11 @@
     "info_link": null,
     "sources": [
       "Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
-    ]
+    ],
+    "gist": "An engineer's essay on how energy and information underpin society and money, restating the principles of thermodynamics and applying them to everyday life and economics. Published by Konsensus Network; translated from the French original."
   },
   {
+    "slug": "goodnight-bitcoin",
     "title": "Goodnight Bitcoin",
     "subtitle": null,
     "authors": [
@@ -3615,9 +4116,11 @@
     "info_link": null,
     "sources": [
       "bitcoin-resources.com/books; Cointelegraph Magazine kids-books article"
-    ]
+    ],
+    "gist": "A children's bedtime book telling the story of Bitcoin's origins, from Satoshi Nakamoto's creation to the first transaction sent to Hal Finney, with early skepticism and how the network keeps running. Aimed at young children and their parents."
   },
   {
+    "slug": "if-you-give-a-monster-a-bitcoin",
     "title": "If You Give a Monster a Bitcoin",
     "subtitle": null,
     "authors": [
@@ -3635,9 +4138,11 @@
     "info_link": null,
     "sources": [
       "bitcoin-resources.com/books"
-    ]
+    ],
+    "isbn": "9798218034078"
   },
   {
+    "slug": "kicking-the-hornet-s-nest",
     "title": "Kicking the Hornet's Nest",
     "subtitle": "The Complete Writings, Emails, and Forum Posts of Satoshi Nakamoto",
     "authors": [
@@ -3655,9 +4160,11 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "evidence": "Repo owned by crrdlx, who is the compiler of the collection (his hive.blog post lists the official free PDF/text copies and the Lulu print edition). Underlying texts are Satoshi's public writings. Repo is from 2020 so it holds an older edition."
+    "evidence": "Repo owned by crrdlx, who is the compiler of the collection (his hive.blog post lists the official free PDF/text copies and the Lulu print edition). Underlying texts are Satoshi's public writings. Repo is from 2020 so it holds an older edition.",
+    "gist": "A chronological compilation of Satoshi Nakamoto's public writings: emails, forum posts and mailing-list messages, with minimal editorial commentary. Edited by Mill Hill Books; later editions add emails released in the COPA trial."
   },
   {
+    "slug": "l-uomo-piu-ricco-del-mondo",
     "title": "L'uomo più ricco del mondo",
     "subtitle": null,
     "authors": [
@@ -3676,9 +4183,12 @@
     "borderline": false,
     "sources": [
       "Perlego listing"
-    ]
+    ],
+    "gist": "An Italian investigative account of who Satoshi Nakamoto might be, reviewing suspects such as Hal Finney, Nick Szabo and Gavin Andresen before concluding that the identity matters less than the idea. Published by Rizzoli in 2022.",
+    "isbn": "9788817173780"
   },
   {
+    "slug": "onboarding-to-bitcoin-core",
     "title": "Onboarding to Bitcoin Core",
     "subtitle": "The missing onboarding guide to Bitcoin Core",
     "authors": [
@@ -3695,9 +4205,11 @@
     "info_link": "https://github.com/chaincodelabs/onboarding-to-bitcoin-core",
     "sources": [
       "bitcoincore.academy (200), repo homepage field"
-    ]
+    ],
+    "gist": "An open onboarding guide for people who want to contribute to Bitcoin Core, covering getting started, the software's workflow and architecture. Maintained as a GitHub repository by Will Clark with Chaincode Labs."
   },
   {
+    "slug": "orange-pilled",
     "title": "Orange Pilled",
     "subtitle": "A Brief Introduction to Bitcoin",
     "authors": [
@@ -3717,6 +4229,7 @@
     ]
   },
   {
+    "slug": "praxeology",
     "title": "Praxeology",
     "subtitle": "The Invisible Hand That Feeds Bitcoin",
     "authors": [
@@ -3734,9 +4247,12 @@
     "info_link": null,
     "sources": [
       "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
-    ]
+    ],
+    "gist": "An introduction to praxeology, the study of human action, which analyses society starting from individual choices and uses a Robinson Crusoe story to show how people value goods and time. Written for general readers; subtitled The Invisible Hand That Feeds You.",
+    "isbn": "9789916723074"
   },
   {
+    "slug": "programming-the-blockchain-in-c",
     "title": "Programming the Blockchain in C#",
     "subtitle": null,
     "authors": [
@@ -3755,9 +4271,11 @@
     "sources": [
       "Official repo README links to GitBook (200)",
       "lopp.net bitcoin books pages"
-    ]
+    ],
+    "gist": "A free, Creative Commons guide to Bitcoin programming with the NBitcoin .NET library, covering transactions, key generation, multisig, HD wallets, colored coins and building a wallet. For C# developers."
   },
   {
+    "slug": "sade-s-satoshi",
     "title": "Sade's Satoshi",
     "subtitle": null,
     "authors": [
@@ -3777,6 +4295,7 @@
     ]
   },
   {
+    "slug": "the-cathedral-problem",
     "title": "The Cathedral Problem",
     "subtitle": null,
     "authors": [
@@ -3797,6 +4316,7 @@
     ]
   },
   {
+    "slug": "the-praxeology-of-privacy",
     "title": "The Praxeology of Privacy",
     "subtitle": null,
     "authors": [
@@ -3815,9 +4335,11 @@
     "info_link": null,
     "sources": [
       "konsensus.net/books/free (search snippet)"
-    ]
+    ],
+    "gist": "Combines Austrian economics with cypherpunk cryptography to argue that privacy is needed for purposeful action, covering financial surveillance, CBDCs, the cryptographic stack and Bitcoin privacy tools such as CoinJoin and Lightning. Subtitled Economic Logic in Cypherpunk Implementation."
   },
   {
+    "slug": "the-uncommunist-manifesto",
     "title": "The UnCommunist Manifesto",
     "subtitle": null,
     "authors": [
@@ -3835,6 +4357,8 @@
     "info_link": null,
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
-    ]
+    ],
+    "gist": "A rewrite of Marx and Engels' manifesto, in similar length and structure, framing the real conflict as individual sovereignty and responsibility versus collectivist coercion. For readers interested in the political philosophy around Bitcoin.",
+    "isbn": "9780578396309"
   }
 ]

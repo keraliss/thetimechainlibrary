@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --color-night: #0b090d;
+  --color-stone: #1a1419;
+  --color-wood: #2b1b12;
+  --color-wood-light: #4a2e1c;
+  --color-parchment: #efe3c8;
+  --color-candle: #ffcf7a;
+  --color-gold: #d9a441;
+  --color-ember: #f7931a;
+
+  --font-display: "Cinzel", Georgia, serif;
+  --font-heading: "Cinzel", Georgia, serif;
+  --font-body: "EB Garamond", Georgia, serif;
+}
+
+html {
+  background: var(--color-night);
+  color: var(--color-parchment);
+  font-family: var(--font-body);
+  scroll-behavior: smooth;
+}
+
+.font-display {
+  font-weight: 700;
+}
+
+/* ---------- Dust motes ---------- */
+
+.mote {
+  animation: rise linear infinite;
+}
+
+@keyframes rise {
+  0% { transform: translate(0, 0); opacity: 0; }
+  15% { opacity: 0.85; }
+  85% { opacity: 0.6; }
+  100% { transform: translate(var(--dx), -45vh); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .mote {
+    animation: none !important;
+  }
+}
