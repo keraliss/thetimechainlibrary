@@ -13,8 +13,8 @@ export type Book = {
   free_link_note: string | null;
   info_link: string | null;
   companion_repo?: string | null;
-  cover?: string | null; // path to the real cover in public/covers (from Open Library); generated cover if missing
-  cover_color?: string | null; // the cover's colour, deepened for text on top (see coverBack)
+  cover?: string | null; // path to the real cover (WebP) in public/covers (from Open Library); generated cover if missing
+  cover_color?: string | null; // the cover's main colour, for its back (see coverBack)
   gist?: string | null; // one or two sentences on what the book is about
   isbn?: string | null;
   borderline?: boolean;

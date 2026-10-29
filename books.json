@@ -65,7 +65,7 @@
       "Triumph Books; Goodreads",
       "github.com/jlopp/Blockchain-stuff"
     ],
-    "cover": "/covers/bitcoin-and-the-future-of-money.jpg",
+    "cover": "/covers/bitcoin-and-the-future-of-money.webp",
     "gist": "A CNNMoney reporter's introduction to Bitcoin: its origins, how it works and is used today, its economic implications and its illicit uses, with interviews from regulators to advocates. For general readers.",
     "isbn": "9781623689193",
     "cover_color": "#75aa79"
@@ -94,7 +94,7 @@
       "No Starch Press",
       "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/bitcoin-for-the-befuddled.jpg",
+    "cover": "/covers/bitcoin-for-the-befuddled.webp",
     "gist": "A plain-language, illustrated introduction to Bitcoin that explains how it works, how to acquire and use it, and how to mine it. For complete beginners.",
     "isbn": "9781593275730",
     "cover_color": "#71287f"
@@ -146,7 +146,7 @@
       "Unbound / Amazon",
       "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/bitcoin-the-future-of-money.jpg",
+    "cover": "/covers/bitcoin-the-future-of-money.webp",
     "gist": "Tells the story of Bitcoin from Satoshi Nakamoto's appearance after the 2008 crisis, explaining in plain language how it works and what it could mean for the state. For general readers.",
     "isbn": "9781783520763",
     "cover_color": "#72491d"
@@ -219,7 +219,7 @@
       "Wiley / Amazon",
       "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/the-bitcoin-big-bang.jpg",
+    "cover": "/covers/the-bitcoin-big-bang.webp",
     "gist": "A currency trader's guide that goes beyond Bitcoin basics, placing digital currency in the history of payments and examining how it may affect business and the future of money. For general and business readers.",
     "isbn": "9781118963661",
     "cover_color": "#503b0e"
@@ -247,7 +247,7 @@
       "Wikipedia (Phil Champagne); bol.com",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/the-book-of-satoshi.jpg",
+    "cover": "/covers/the-book-of-satoshi.webp",
     "gist": "Compiles Satoshi Nakamoto's emails, forum posts and the Bitcoin white paper in chronological order, with explanations of Bitcoin fundamentals and its economic implications.",
     "isbn": "9780996061315",
     "cover_color": "#51687f"
@@ -272,7 +272,7 @@
     "sources": [
       "github.com/jlopp/Blockchain-stuff"
     ],
-    "cover": "/covers/understanding-bitcoin.jpg",
+    "cover": "/covers/understanding-bitcoin.webp",
     "gist": "A technical guide to the cryptography, engineering and economics of Bitcoin, from public key cryptography through transactions, the blockchain and mining, plus competing economic views. Aimed at finance professionals.",
     "isbn": "9781119019152",
     "cover_color": "#f4b518"
@@ -349,7 +349,7 @@
     "sources": [
       "github.com/jlopp/Blockchain-stuff"
     ],
-    "cover": "/covers/bit-by-bit.jpg",
+    "cover": "/covers/bit-by-bit.webp",
     "gist": "Argues that peer-to-peer technology, with Bitcoin as a prime example, is reshaping social, economic and political life by letting people cooperate without central control.",
     "cover_color": "#e8f7f5"
   },
@@ -421,7 +421,7 @@
       "Harper / library catalogues",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/digital-gold.jpg",
+    "cover": "/covers/digital-gold.webp",
     "gist": "A journalist's narrative history of Bitcoin and the people behind it, from early cypherpunk experiments through the Mt. Gox era and the rise of Bitcoin startups.",
     "isbn": "9780062572066",
     "cover_color": "#131214"
@@ -450,7 +450,7 @@
       "St. Martin's Press / Amazon",
       "lopp.net bitcoin books pages; github.com/jlopp/Blockchain-stuff"
     ],
-    "cover": "/covers/the-age-of-cryptocurrency.jpg",
+    "cover": "/covers/the-age-of-cryptocurrency.webp",
     "gist": "Explains Bitcoin and the cryptocurrency idea, how digital money works and why it matters, with attention to its potential to change finance. For general readers.",
     "isbn": "9781250073082",
     "cover_color": "#fefefe"
@@ -482,7 +482,7 @@
     ],
     "notes": "The 'Princeton textbook'; accompanies the Coursera course. Largely Bitcoin, with a chapter on altcoins.",
     "borderline": false,
-    "cover": "/covers/bitcoin-and-cryptocurrency-technologies.jpg",
+    "cover": "/covers/bitcoin-and-cryptocurrency-technologies.webp",
     "gist": "A textbook-style introduction to how Bitcoin works, covering cryptography, mining, anonymity and altcoins. For students, developers and researchers.",
     "isbn": "9780691171692",
     "cover_color": "#e5e5e5"
@@ -509,7 +509,7 @@
       "Wiley / Amazon",
       "github.com/jlopp/Blockchain-stuff"
     ],
-    "cover": "/covers/bitcoin-for-dummies.jpg",
+    "cover": "/covers/bitcoin-for-dummies.webp",
     "gist": "A beginner's guide to understanding the Bitcoin market, setting up a wallet, buying, storing and using bitcoin, and protecting against fraud and theft.",
     "isbn": "9786059746670",
     "cover_color": "#ded90f"
@@ -563,7 +563,7 @@
     "sources": [
       "Goodreads list 'Bitcoin Books'; nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/the-politics-of-bitcoin.jpg",
+    "cover": "/covers/the-politics-of-bitcoin.webp",
     "gist": "A short critical book arguing that Bitcoin's supporters hold a cyberlibertarian outlook that leans on far-right political thought, tracing its ideas from Friedman, Hayek and Mises to Fed conspiracy theories.",
     "isbn": "9781452953816",
     "cover_color": "#deddca"
@@ -589,7 +589,7 @@
     "sources": [
       "Portfolio/Penguin / Amazon"
     ],
-    "cover": "/covers/american-kingpin.jpg",
+    "cover": "/covers/american-kingpin.webp",
     "gist": "The story of Ross Ulbricht and the Silk Road, the dark web marketplace that ran on Bitcoin, and the investigation that brought it down. A narrative true-crime account.",
     "isbn": "9780753546673",
     "cover_color": "#a72422"
@@ -613,7 +613,7 @@
     "sources": [
       "Goodreads list 'Bitcoin Books'"
     ],
-    "cover": "/covers/attack-of-the-50-foot-blockchain.jpg",
+    "cover": "/covers/attack-of-the-50-foot-blockchain.webp",
     "gist": "A sceptical, non-technical tour of Bitcoin, blockchain, Ethereum and smart contracts up to mid-2017, covering energy use, exchange hacks, Mt. Gox, Silk Road and mining concentration.",
     "isbn": "9781974000067",
     "cover_color": "#d9dfe2"
@@ -662,7 +662,7 @@
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
     ],
-    "cover": "/covers/how-money-got-free.jpg",
+    "cover": "/covers/how-money-got-free.webp",
     "gist": "An account of Bitcoin's rise from fringe idea to financial industry attention, following the people and companies building around it. For general readers.",
     "isbn": "9781780746586",
     "cover_color": "#1ea29b"
@@ -710,7 +710,7 @@
     "sources": [
       "bitcoin-resources.com/books"
     ],
-    "cover": "/covers/the-internet-of-money-volume-two.jpg",
+    "cover": "/covers/the-internet-of-money-volume-two.webp",
     "gist": "A second collection of eleven Andreas Antonopoulos talks, including 'Blockchain vs Bullshit' and 'Currency Wars', with a new FAQ section. It can be read without Volume One.",
     "isbn": "9781947910065",
     "cover_color": "#7734a0"
@@ -785,7 +785,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/the-bitcoin-standard.jpg",
+    "cover": "/covers/the-bitcoin-standard.webp",
     "gist": "Traces the history of money from shells and gold to central banking, then argues Bitcoin is a sound-money alternative to government currencies. For general readers.",
     "isbn": "9781119473862",
     "cover_color": "#fdfdfd"
@@ -840,7 +840,7 @@
       "21lessons.com (200, CC-BY-SA link on page)",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/21-lessons.jpg",
+    "cover": "/covers/21-lessons.webp",
     "gist": "A personal, non-technical set of 21 lessons from the author's study of Bitcoin, in three sections covering philosophy, economics and technology.",
     "isbn": "9781697526349",
     "cover_color": "#f8f1e7"
@@ -865,7 +865,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/bitcoin-black-america.jpg",
+    "cover": "/covers/bitcoin-black-america.webp",
     "gist": "Explores how Bitcoin and blockchain could help Black Americans build wealth, with a critique of the banking system, advice on using Bitcoin in work and business, and a list of Black blockchain professionals.",
     "isbn": "9781079178098",
     "cover_color": "#292929"
@@ -896,7 +896,7 @@
     ],
     "companion_repo": "https://github.com/Apress/bitcoin-lightning-network-raspberry-pi",
     "evidence": "Official Apress org repo, description 'Source Code for ... by Harris Brakmic', homepage apress.com/us/book/9781484255216.",
-    "cover": "/covers/bitcoin-and-lightning-network-on-raspberry-pi.jpg",
+    "cover": "/covers/bitcoin-and-lightning-network-on-raspberry-pi.webp",
     "gist": "A hands-on guide to running Bitcoin full nodes and Lightning nodes (LND and c-lightning) on Raspberry Pi, covering Bitcoin basics, mining and wallets via RPC. For makers comfortable with Linux.",
     "isbn": "9781484255216",
     "cover_color": "#3f4648"
@@ -924,7 +924,7 @@
       "Flatiron Books / Amazon",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/bitcoin-billionaires.jpg",
+    "cover": "/covers/bitcoin-billionaires.webp",
     "gist": "The story of Tyler and Cameron Winklevoss after the Facebook dispute, and their bet on Bitcoin and role in its early crypto industry. A narrative account.",
     "isbn": "9781408711897",
     "cover_color": "#0c0b0b"
@@ -952,7 +952,7 @@
       "Charter Bookstore (ISBN 9780578490670); Shortform",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/bitcoin-money.jpg",
+    "cover": "/covers/bitcoin-money.webp",
     "gist": "A children's picture book about the town of Bitville, whose kids move from barter to fiat money and inflation until a newcomer named Satoshi introduces Bitcoin.",
     "isbn": "9780578490670",
     "cover_color": "#fafcfb"
@@ -981,7 +981,7 @@
     ],
     "notes": "Manning, 2019. Foreword by David A. Harding.",
     "borderline": false,
-    "cover": "/covers/grokking-bitcoin.jpg",
+    "cover": "/covers/grokking-bitcoin.webp",
     "gist": "A guide to how Bitcoin works, from hash functions and signatures through addresses, wallets, transactions, proof of work and the network, up to SegWit. Programming is not required.",
     "isbn": "9781617294648",
     "cover_color": "#fcfcfc"
@@ -1007,7 +1007,7 @@
       "swanbitcoin.com/freebook redirects here (200); author is Swan co-founder",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/inventing-bitcoin.jpg",
+    "cover": "/covers/inventing-bitcoin.webp",
     "gist": "A short primer on how Bitcoin works, covering transactions, blocks, proof-of-work mining, wallets, keys and scripting, using only high-school math.",
     "isbn": "9781794326316",
     "cover_color": "#3a3f4a"
@@ -1036,7 +1036,7 @@
     ],
     "notes": "O'Reilly, 2019. Python implementation of Bitcoin primitives.",
     "borderline": false,
-    "cover": "/covers/programming-bitcoin.jpg",
+    "cover": "/covers/programming-bitcoin.webp",
     "gist": "A hands-on book for Python developers that teaches Bitcoin by building a library from scratch, covering elliptic curve math, transactions, Script, blocks, proof of work and networking.",
     "isbn": "9781492031499",
     "cover_color": "#fdfdfd"
@@ -1060,7 +1060,7 @@
     "sources": [
       "bitcoin-resources.com/books; nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/the-internet-of-money-volume-three.jpg",
+    "cover": "/covers/the-internet-of-money-volume-three.webp",
     "gist": "A third collection of twelve Andreas Antonopoulos talks about money as a tool of control and surveillance, financial inclusion, and what money could look like without a central authority.",
     "isbn": "9781947910171",
     "cover_color": "#06b8ec"
@@ -1092,7 +1092,7 @@
     "sources": [
       "lopp.net bitcoin books pages; bitcoin-resources.com/books"
     ],
-    "cover": "/covers/the-little-bitcoin-book.jpg",
+    "cover": "/covers/the-little-bitcoin-book.webp",
     "gist": "A short introduction by eight authors from five continents explaining what is wrong with today's money and how Bitcoin offers an alternative, with a 30-page FAQ. For readers with no technical or financial background.",
     "isbn": "9781641990509",
     "cover_color": "#463f3c"
@@ -1116,7 +1116,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/why-buy-bitcoin.jpg",
+    "cover": "/covers/why-buy-bitcoin.webp",
     "gist": "A wealth manager's investment case for Bitcoin, starting with the history of money, then covering its decentralized design and fixed supply, objections like volatility and energy, and comparisons with gold, stocks and real estate.",
     "isbn": "9781733219600",
     "cover_color": "#b0d4de"
@@ -1162,7 +1162,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/bitcoin-clarity.jpg",
+    "cover": "/covers/bitcoin-clarity.webp",
     "gist": "A self-published guide for non-technical readers that explains Bitcoin through conceptual mental models rather than code, written by a Blockstream sysadmin.",
     "isbn": "9781733871204",
     "cover_color": "#f7f3f4"
@@ -1240,7 +1240,7 @@
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
     ],
-    "cover": "/covers/bitcoin-hard-money-you-can-t-f-ck-with.jpg",
+    "cover": "/covers/bitcoin-hard-money-you-can-t-f-ck-with.webp",
     "gist": "A plain-language case that Bitcoin could become the next global reserve currency, covering why it matters now and a short history of money. Aimed at newcomers and conventional investors.",
     "isbn": "9781838318406",
     "cover_color": "#070806"
@@ -1359,7 +1359,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/thank-god-for-bitcoin.jpg",
+    "cover": "/covers/thank-god-for-bitcoin.webp",
     "gist": "A multi-author book that began as a Bible study, examining the morality of money, the flaws of the fiat system and how Bitcoin's principles align with Christian teaching. Written for Christian readers curious about Bitcoin.",
     "isbn": "9781641991216",
     "cover_color": "#f6983a"
@@ -1383,7 +1383,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/the-price-of-tomorrow.jpg",
+    "cover": "/covers/the-price-of-tomorrow.webp",
     "gist": "Argues that technology is inherently deflationary, which strains an economy built on debt and growth, and that societies must adapt. Covers automation, work and monetary policy; Bitcoin figures in the proposed answer. For general readers.",
     "isbn": "9781999257422",
     "cover_color": "#242022"
@@ -1519,7 +1519,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/layered-money.jpg",
+    "cover": "/covers/layered-money.webp",
     "gist": "Traces money as layers built on a base asset such as gold, from Renaissance Florence through central banking to Bitcoin and CBDCs. Written for general readers, with no finance background required.",
     "isbn": "9781736110515",
     "cover_color": "#1b70ac"
@@ -1550,7 +1550,7 @@
     ],
     "notes": "O'Reilly, Dec 2021.",
     "borderline": false,
-    "cover": "/covers/mastering-the-lightning-network.jpg",
+    "cover": "/covers/mastering-the-lightning-network.webp",
     "gist": "A practical guide to the Lightning Network, a second-layer payment protocol for Bitcoin, covering channels, routing, node operation, wire protocol, security and privacy. Aimed at intermediate to advanced readers and developers.",
     "isbn": "9781492054863",
     "cover_color": "#fcfcfb"
@@ -1575,7 +1575,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/the-7th-property.jpg",
+    "cover": "/covers/the-7th-property.webp",
     "gist": "Argues that immutability is a seventh property of money and that central banking is a major moral hazard, examining the Federal Reserve closely before explaining how Bitcoin works. For readers new to Bitcoin.",
     "isbn": "9780578902623",
     "cover_color": "#d6262b"
@@ -1624,7 +1624,7 @@
       "Amazon / Goodreads",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/the-blocksize-war.jpg",
+    "cover": "/covers/the-blocksize-war.webp",
     "gist": "A chronology of the 2015-2017 dispute over Bitcoin's block size, covering the big-block and small-block camps, SegWit2x and the creation of Bitcoin Cash, and who controls protocol rules. For readers wanting Bitcoin's governance history.",
     "isbn": "9798721895609",
     "cover_color": "#7e507b"
@@ -1649,7 +1649,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/the-bullish-case-for-bitcoin.jpg",
+    "cover": "/covers/the-bullish-case-for-bitcoin.webp",
     "gist": "An expanded version of Boyapati's essay explaining how money emerges and why he considers Bitcoin superior to gold and fiat as sound money. A short, beginner-friendly read.",
     "isbn": "9781737204114",
     "cover_color": "#fdfdfd"
@@ -1673,7 +1673,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/the-fiat-standard.jpg",
+    "cover": "/covers/the-fiat-standard.webp",
     "gist": "Explains the modern fiat monetary system as a feat of engineering, covering the shift from the gold standard to government-backed money, as a companion to The Bitcoin Standard. For readers interested in monetary economics.",
     "isbn": "9781544526478",
     "cover_color": "#fefefe"
@@ -1697,7 +1697,7 @@
     "sources": [
       "Goodreads list 'Bitcoin, Money & the Economy'"
     ],
-    "cover": "/covers/the-promise-of-bitcoin.jpg",
+    "cover": "/covers/the-promise-of-bitcoin.webp",
     "gist": "An introduction arguing Bitcoin is a more rational monetary system than traditional money, covering adoption, buying and investing strategies, and mining. Written by an early crypto entrepreneur for general readers.",
     "isbn": "9781260468670",
     "cover_color": "#fbfbfa"
@@ -1911,7 +1911,7 @@
       "Doubleday / Amazon",
       "nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/tracers-in-the-dark.jpg",
+    "cover": "/covers/tracers-in-the-dark.webp",
     "gist": "A true-crime account of investigators tracing cryptocurrency transactions to dismantle darknet markets and criminal networks. Reads as narrative journalism for general readers.",
     "isbn": "9780593315613",
     "cover_color": "#161213"
@@ -2027,7 +2027,7 @@
     ],
     "companion_repo": "https://github.com/micah541/GameTheory",
     "evidence": "micah541 is Micah Warren (his UOregon page links github.com/micah541/censorship); repo 'Game Theory and Probability for Bitcoin' holds mining/game-theory scripts and problem solutions matching the book's topics. Loosely companion, not declared as such.",
-    "cover": "/covers/bitcoin-a-game-theoretic-analysis.jpg",
+    "cover": "/covers/bitcoin-a-game-theoretic-analysis.webp",
     "gist": "A mathematics textbook applying probability and game theory to Bitcoin's security, covering Nakamoto consensus, selfish mining, attack incentives and mining economics. Aimed at students and researchers.",
     "isbn": "9783110772845",
     "cover_color": "#8bc9e5"
@@ -2052,7 +2052,7 @@
     "sources": [
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/broken-money.jpg",
+    "cover": "/covers/broken-money.webp",
     "gist": "Traces the history of money as technology, from shell money and gold to central banks and Bitcoin, and argues the current financial system is failing and could be improved. Suited to general readers.",
     "isbn": "9798988666325",
     "cover_color": "#fdfdfd"
@@ -2177,7 +2177,7 @@
       "nakamotoinstitute.org library page (200, 'Read online')",
       "lopp.net bitcoin books pages"
     ],
-    "cover": "/covers/gradually-then-suddenly.jpg",
+    "cover": "/covers/gradually-then-suddenly.webp",
     "gist": "Parker Lewis's essay series on Bitcoin and money, collected as a book that builds an intuitive framework for understanding Bitcoin as hard money. Aimed at non-technical readers.",
     "isbn": "9798218292874",
     "cover_color": "#dfe1d5"
@@ -2250,7 +2250,7 @@
     ],
     "notes": "1st ed. 2014 (subtitle 'Unlocking Digital Cryptocurrencies', Antonopoulos alone), 2nd ed. 2017, 3rd ed. Dec 2023 co-authored with David A. Harding. Translations: Spanish (community), Japanese (NTT出版, 『ビットコインとブロックチェーン』), many others.",
     "borderline": false,
-    "cover": "/covers/mastering-bitcoin.jpg",
+    "cover": "/covers/mastering-bitcoin.webp",
     "gist": "A technical reference on Bitcoin, covering keys, addresses, transactions, the peer-to-peer network, mining and security, plus Taproot and Lightning. The third edition was updated by David Harding; for developers and technical readers.",
     "isbn": "9781098150099",
     "cover_color": "#fdfdfc"
@@ -2276,7 +2276,7 @@
     "sources": [
       "Currency / Amazon"
     ],
-    "cover": "/covers/number-go-up.jpg",
+    "cover": "/covers/number-go-up.webp",
     "gist": "A journalist's investigation of the crypto boom and bust, covering Sam Bankman-Fried and FTX, pig-butchering scams and the promoters behind crypto's rise. Critical of the industry; for general readers.",
     "isbn": "9781399611350",
     "cover_color": "#0d0d0d"
@@ -2365,7 +2365,7 @@
     "sources": [
       "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
     ],
-    "cover": "/covers/the-bitcoin-handbook.jpg",
+    "cover": "/covers/the-bitcoin-handbook.webp",
     "gist": "A short, illustrated collection of frameworks, mental models and heuristics for understanding money and Bitcoin in the digital age. Aimed at general readers who want visual explanations of key concepts.",
     "isbn": "9789916697986",
     "cover_color": "#f8737b"
@@ -2525,7 +2525,7 @@
     "sources": [
       "nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/hijacking-bitcoin.jpg",
+    "cover": "/covers/hijacking-bitcoin.webp",
     "gist": "A history of Bitcoin's development and the blocksize wars from Roger Ver's perspective, arguing that a small group of insiders changed the protocol after Satoshi left. For readers interested in the BTC versus BCH dispute.",
     "isbn": "9798989492435",
     "cover_color": "#f4911f"
@@ -2685,7 +2685,7 @@
       "Routledge; resistance.money FAQ; Princeton book talk",
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/resistance-money.jpg",
+    "cover": "/covers/resistance-money.webp",
     "gist": "An academic philosophical case that Bitcoin is a net good, examining its monetary policy, censorship resistance, privacy, inclusion and energy use, and testing the strongest objections. Written for readers from newcomers to skeptics.",
     "isbn": "9781040050170",
     "cover_color": "#fefefe"
@@ -2735,7 +2735,7 @@
     "sources": [
       "Grand Central (ISBN 9781538721032); BookTrib interview"
     ],
-    "cover": "/covers/the-atlas-maneuver.jpg",
+    "cover": "/covers/the-atlas-maneuver.webp",
     "gist": "A Cotton Malone thriller in which a Swiss bank, the CIA and hidden wartime gold collide with a plot to weaponize bitcoin against the world's financial systems. Fiction for thriller readers.",
     "isbn": "9781538721032",
     "cover_color": "#d57341"
@@ -3245,7 +3245,7 @@
     "sources": [
       "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
     ],
-    "cover": "/covers/principles-of-bitcoin.jpg",
+    "cover": "/covers/principles-of-bitcoin.webp",
     "gist": "A first-principles examination of Bitcoin through technology, economics, politics and philosophy, by a former Goldman Sachs lawyer. Aimed at readers seeking a structured framework for analyzing Bitcoin.",
     "isbn": "9780231220125",
     "cover_color": "#f8f3e9"
