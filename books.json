@@ -1,0 +1,3840 @@
+[
+  {
+    "title": "Bitcoin Internals",
+    "subtitle": "A Technical Guide to Bitcoin",
+    "authors": [
+      "Chris Clark"
+    ],
+    "year": 2013,
+    "language": "English",
+    "topics": [
+      "technical"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "github.com/jlopp/Blockchain-stuff"
+    ]
+  },
+  {
+    "title": "On the Origins of Bitcoin",
+    "subtitle": "Stages of Monetary Evolution",
+    "authors": [
+      "Konrad S. Graf"
+    ],
+    "year": 2013,
+    "language": "English",
+    "topics": [
+      "economics",
+      "history"
+    ],
+    "level": "intermediate",
+    "free_link": "https://konrad-graf.squarespace.com/s/On-the-Origins-of-Bitcoin-Graf-031113.pdf",
+    "free_link_note": "Free PDF from author's site (monograph-length work)",
+    "info_link": "https://www.konradsgraf.com/",
+    "sources": [
+      "Author blog post links PDF (200, application/pdf)"
+    ]
+  },
+  {
+    "title": "Bitcoin",
+    "subtitle": "And the Future of Money",
+    "authors": [
+      "Jose Pagliery"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "history",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://triumphbooks.com/bitcoin-products-9781629370361.php",
+    "notes": "Triumph Books, Sept 2014. ISBN 9781629370361. Covers the dark side incl. FBI interviews.",
+    "borderline": false,
+    "sources": [
+      "Triumph Books; Goodreads"
+    ]
+  },
+  {
+    "title": "Bitcoin and the Future of Money",
+    "subtitle": null,
+    "authors": [
+      "Jose Pagliery"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "github.com/jlopp/Blockchain-stuff"
+    ]
+  },
+  {
+    "title": "Bitcoin for the Befuddled",
+    "subtitle": null,
+    "authors": [
+      "Conrad Barski",
+      "Chris Wilmer"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "beginner-intro",
+      "technical"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://nostarch.com/bitcoin",
+    "notes": "No Starch Press, 2014.",
+    "borderline": false,
+    "sources": [
+      "No Starch Press",
+      "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin: a moeda na era digital",
+    "subtitle": null,
+    "authors": [
+      "Fernando Ulrich"
+    ],
+    "year": 2014,
+    "language": "Portuguese",
+    "topics": [
+      "economics",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Mises Brasil, 2014, preface by Jeffrey Tucker. Austrian-economics framing. A free PDF from Mises Brasil may exist but was not verified.",
+    "borderline": false,
+    "sources": [
+      "Instituto Ludwig von Mises Brasil (ISBN 9788581190761); Mises journal review"
+    ]
+  },
+  {
+    "title": "Bitcoin: The Future of Money?",
+    "subtitle": null,
+    "authors": [
+      "Dominic Frisby"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "history",
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Published by Unbound (crowdfunded). Early mainstream look at Bitcoin and the Satoshi identity question.",
+    "borderline": false,
+    "sources": [
+      "Unbound / Amazon",
+      "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "God Is a Gamer",
+    "subtitle": null,
+    "authors": [
+      "Ravi Subramanian"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "fiction"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Indian financial thriller with Bitcoin central to the plot; often called the first Bitcoin thriller.",
+    "borderline": false,
+    "sources": [
+      "Penguin Books India; reviews"
+    ]
+  },
+  {
+    "title": "The Anatomy of a Money-Like Informational Commodity",
+    "subtitle": "A Study of Bitcoin",
+    "authors": [
+      "Tim Swanson"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": "https://www.ofnumbers.com/wp-content/uploads/2014/08/The+Anatomy+of+a+Money-like+Informational+Commodity.pdf",
+    "free_link_note": "Free PDF released by the author on his own site (no explicit license, offered as 'available for free'). Not on GitHub.",
+    "info_link": null,
+    "sources": [
+      "github.com/jlopp/Blockchain-stuff"
+    ],
+    "evidence": "The author's blog ofnumbers.com/the-anatomy/ and his 2014 announcement post both say the book is 'all available for free in PDF and Scribd formats'. The PDF link on that page returns HTTP 200, application/pdf, 6.8 MB. The older S3 link from the announcement is dead (404)."
+  },
+  {
+    "title": "The Bitcoin Big Bang",
+    "subtitle": "How Alternative Currencies Are About to Change the World",
+    "authors": [
+      "Brian Kelly"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "economics",
+      "investing"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Wiley, 2014. CNBC contributor.",
+    "borderline": false,
+    "sources": [
+      "Wiley / Amazon",
+      "github.com/jlopp/Blockchain-stuff; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Book of Satoshi",
+    "subtitle": "The Collected Writings of Bitcoin Creator Satoshi Nakamoto",
+    "authors": [
+      "Phil Champagne"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "history",
+      "philosophy"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://www.bookofsatoshi.com/",
+    "notes": "e53 Publishing. Spanish translation 'El Libro de Satoshi'.",
+    "borderline": false,
+    "sources": [
+      "Wikipedia (Phil Champagne); bol.com",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Understanding Bitcoin",
+    "subtitle": "Cryptography, Engineering and Economics",
+    "authors": [
+      "Pedro Franco"
+    ],
+    "year": 2014,
+    "language": "English",
+    "topics": [
+      "technical",
+      "economics"
+    ],
+    "level": "advanced",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "github.com/jlopp/Blockchain-stuff"
+    ]
+  },
+  {
+    "title": "暗号が通貨になる「ビットコイン」のからくり",
+    "subtitle": "数式なしでわかる仮想通貨の技術",
+    "authors": [
+      "吉本佳生",
+      "西田宗千佳"
+    ],
+    "year": 2014,
+    "language": "Japanese",
+    "topics": [
+      "technical",
+      "economics",
+      "beginner-intro",
+      "self-custody"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://learnbitcoin.link",
+    "notes": "Kodansha Blue Backs, May 2014. Romanized: Angō ga tsūka ni naru 'Bitcoin' no karakuri. Authors: Yoshimoto Yoshio, Nishida Munechika.",
+    "borderline": false,
+    "sources": [
+      "Kodansha Blue Backs; NIMS library catalogue (ISBN 9784062578660)",
+      "Agora web article by the author",
+      "Goodreads",
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Are Bitcoins Ownable?",
+    "subtitle": "Property Rights, IP Wrongs, and Legal Theory Implications",
+    "authors": [
+      "Konrad S. Graf"
+    ],
+    "year": 2015,
+    "language": "English",
+    "topics": [
+      "politics",
+      "philosophy"
+    ],
+    "level": "intermediate",
+    "free_link": "https://www.konradsgraf.com/s/AreBitcoinsOwnableBookFreePDF5Nov2015.pdf",
+    "free_link_note": "Free PDF from author's site (also sold as ebook/print)",
+    "info_link": "https://www.konradsgraf.com/blog1/2015/11/8/announcing-new-book-on-bitcoin-and-legal-theory.html",
+    "sources": [
+      "Author's announcement page (PDF 200, application/pdf)"
+    ]
+  },
+  {
+    "title": "Bit by Bit",
+    "subtitle": "How P2P Is Freeing the World",
+    "authors": [
+      "Jeffrey Tucker"
+    ],
+    "year": 2015,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "github.com/jlopp/Blockchain-stuff"
+    ]
+  },
+  {
+    "title": "Bitcoin Basics",
+    "subtitle": null,
+    "authors": [
+      "Eric Sammons"
+    ],
+    "year": 2015,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin – Geld ohne Staat",
+    "subtitle": null,
+    "authors": [
+      "Aaron Koenig"
+    ],
+    "year": 2015,
+    "language": "German",
+    "topics": [
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "FinanzBuch Verlag 2015, 208 pp. Austrian-school perspective.",
+    "borderline": false,
+    "sources": [
+      "FinanzBuch Verlag; LexisNexis shop (ISBN 9783898799119)"
+    ]
+  },
+  {
+    "title": "Digital Gold",
+    "subtitle": "Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
+    "authors": [
+      "Nathaniel Popper"
+    ],
+    "year": 2015,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Harper, 2015. German translation exists.",
+    "borderline": false,
+    "sources": [
+      "Harper / library catalogues",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "The Age of Cryptocurrency",
+    "subtitle": "How Bitcoin and Digital Money Are Challenging the Global Economic Order",
+    "authors": [
+      "Paul Vigna",
+      "Michael J. Casey"
+    ],
+    "year": 2015,
+    "language": "English",
+    "topics": [
+      "history",
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Mostly Bitcoin-focused despite the generic title. UK edition titled 'Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order'.",
+    "borderline": false,
+    "sources": [
+      "St. Martin's Press / Amazon",
+      "lopp.net bitcoin books pages; github.com/jlopp/Blockchain-stuff"
+    ]
+  },
+  {
+    "title": "Bitcoin and Cryptocurrency Technologies",
+    "subtitle": "A Comprehensive Introduction",
+    "authors": [
+      "Arvind Narayanan",
+      "Joseph Bonneau",
+      "Edward Felten",
+      "Andrew Miller",
+      "Steven Goldfeder"
+    ],
+    "year": 2016,
+    "language": "English",
+    "topics": [
+      "technical"
+    ],
+    "level": "intermediate",
+    "free_link": "https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf",
+    "free_link_note": "Free PDF (final draft) linked from the official Princeton book site",
+    "info_link": "https://bitcoinbook.cs.princeton.edu/",
+    "sources": [
+      "bitcoinbook.cs.princeton.edu (200) and PDF URL (200)",
+      "Princeton University Press; bitcoinbook.cs.princeton.edu",
+      "lopp.net bitcoin books pages; github.com/jlopp/Blockchain-stuff"
+    ],
+    "notes": "The 'Princeton textbook'; accompanies the Coursera course. Largely Bitcoin, with a chapter on altcoins.",
+    "borderline": false
+  },
+  {
+    "title": "Bitcoin For Dummies",
+    "subtitle": null,
+    "authors": [
+      "Prypto"
+    ],
+    "year": 2016,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Wiley, 2016. 'Prypto' = Peter Kent & Tyler Bain.",
+    "borderline": false,
+    "sources": [
+      "Wiley / Amazon",
+      "github.com/jlopp/Blockchain-stuff"
+    ]
+  },
+  {
+    "title": "The Internet of Money",
+    "subtitle": "A collection of talks by Andreas M. Antonopoulos",
+    "authors": [
+      "Andreas M. Antonopoulos"
+    ],
+    "year": 2016,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "economics",
+      "culture",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": "https://github.com/erangadbw/IoMv1",
+    "free_link_note": "CC-BY-NC-ND (book text in /chapters), full manuscript in AsciiDoc; build system MIT. Repo is a re-upload of the original MerkleBloom source, not hosted under the author's own account.",
+    "info_link": null,
+    "notes": "Volume 1 (2016), Volume 2 (2017), Volume 3 (2019); edited talk transcripts. Spanish translation 'Internet del Dinero'.",
+    "borderline": false,
+    "sources": [
+      "Amazon / aantonop.com",
+      "lopp.net bitcoin books pages; bitcoin-resources.com/books"
+    ],
+    "evidence": "Every commit (initial commit, README, 'second print edition', Jan 2017) is authored by Andreas M. Antonopoulos <andreas@antonopoulos.com>. The README says the source is for the book published by MerkleBloom LLC and that the chapters are licensed CC-BY-NC-ND, and the LICENSE says 'Copyright (c) 2017 merklebloom'. The author granted the license, so verbatim non-commercial redistribution is allowed. The github.com/merklebloom org now only has bookbuilder and docker-asciidoctor, so the original repo seems to have been removed. Consider linking with that caveat."
+  },
+  {
+    "title": "The Politics of Bitcoin",
+    "subtitle": "Software as Right-Wing Extremism",
+    "authors": [
+      "David Golumbia"
+    ],
+    "year": 2016,
+    "language": "English",
+    "topics": [
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin Books'; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "American Kingpin",
+    "subtitle": "The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
+    "authors": [
+      "Nick Bilton"
+    ],
+    "year": 2017,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Silk Road / Ross Ulbricht. Bitcoin is the market's currency and plays a major role, but the book is a crime story rather than about Bitcoin itself.",
+    "borderline": true,
+    "sources": [
+      "Portfolio/Penguin / Amazon"
+    ]
+  },
+  {
+    "title": "Attack of the 50 Foot Blockchain",
+    "subtitle": "Bitcoin, Blockchain, Ethereum & Smart Contracts",
+    "authors": [
+      "David Gerard"
+    ],
+    "year": 2017,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin Books'"
+    ]
+  },
+  {
+    "title": "Bitcoin, la monnaie acéphale",
+    "subtitle": null,
+    "authors": [
+      "Jacques Favier",
+      "Adli Takkal Bataille"
+    ],
+    "year": 2017,
+    "language": "French",
+    "topics": [
+      "history",
+      "philosophy"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "CNRS Éditions, 2017.",
+    "borderline": false,
+    "sources": [
+      "CNRS Éditions (ISBN 978-2-271-11554-6); Cryptoast review"
+    ]
+  },
+  {
+    "title": "How Money Got Free",
+    "subtitle": "Bitcoin and the Fight for the Future of Finance",
+    "authors": [
+      "Brian Patrick Eha"
+    ],
+    "year": 2017,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'"
+    ]
+  },
+  {
+    "title": "Pay the Devil in Bitcoin",
+    "subtitle": "The Collapse of Mt. Gox",
+    "authors": [
+      "Jake Adelstein",
+      "Nathalie Stucky"
+    ],
+    "year": 2017,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Kindle Single, Sept 2017; written with Mark Karpelès's cooperation. Subtitle varies by listing. Expanded into 'The Devil Takes Bitcoin' (2025).",
+    "borderline": false,
+    "sources": [
+      "Goodreads; David Gerard review"
+    ]
+  },
+  {
+    "title": "The Internet of Money, Volume Two",
+    "subtitle": null,
+    "authors": [
+      "Andreas M. Antonopoulos"
+    ],
+    "year": 2017,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bitcoin-resources.com/books"
+    ]
+  },
+  {
+    "title": "Bitcoin and Beyond",
+    "subtitle": "Cryptocurrencies, Blockchains, and Global Governance",
+    "authors": [
+      "Malcolm Campbell-Verduyn (ed.)"
+    ],
+    "year": 2018,
+    "language": "English",
+    "topics": [
+      "politics",
+      "economics"
+    ],
+    "level": "advanced",
+    "free_link": "https://www.taylorfrancis.com/books/oa-edit/10.4324/9781315211909/bitcoin-beyond-malcolm-campbell-verduyn",
+    "free_link_note": "Open Access, CC BY-NC-ND 4.0 (Routledge RIPE series); also PDF on OAPEN (library.oapen.org handle 20.500.12657/29557). Academic edited volume; partly covers blockchain beyond Bitcoin",
+    "info_link": "https://doi.org/10.4324/9781315211909",
+    "sources": [
+      "DOI resolves (200) to Taylor & Francis OA page; license per OAPEN metadata via search (OAPEN blocked automated fetch)"
+    ],
+    "borderline": true,
+    "notes": "Academic open-access volume that also covers blockchains beyond Bitcoin."
+  },
+  {
+    "title": "Bitcoin – Métamorphoses",
+    "subtitle": "De l'or des fous à l'or numérique ?",
+    "authors": [
+      "Jacques Favier",
+      "Benoît Huguet",
+      "Adli Takkal Bataille"
+    ],
+    "year": 2018,
+    "language": "French",
+    "topics": [
+      "history",
+      "economics"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://dunod.com/livres-jacques-favier",
+    "notes": "Dunod, 2018. Follow-up to 'La monnaie acéphale'.",
+    "borderline": false,
+    "sources": [
+      "Dunod; Cryptoast review"
+    ]
+  },
+  {
+    "title": "The Bitcoin Standard",
+    "subtitle": "The Decentralized Alternative to Central Banking",
+    "authors": [
+      "Saifedean Ammous"
+    ],
+    "year": 2018,
+    "language": "English",
+    "topics": [
+      "economics",
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Tutto su Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Davide Capoti",
+      "Alessandro De Lorenzo",
+      "Matteo Maggioni"
+    ],
+    "year": 2018,
+    "language": "Italian",
+    "topics": [
+      "investing",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Hoepli, 2018. Practical guide; partly covers other cryptocurrencies.",
+    "borderline": true,
+    "sources": [
+      "Hoepli; Italian book-roundup sites"
+    ]
+  },
+  {
+    "title": "21 Lessons",
+    "subtitle": "What I've Learned from Falling Down the Bitcoin Rabbit Hole",
+    "authors": [
+      "Gigi"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "economics",
+      "beginner-intro",
+      "culture"
+    ],
+    "level": "beginner",
+    "free_link": "https://21lessons.com/",
+    "free_link_note": "CC-BY-SA 4.0, read online on author's site; many translations at 21lessons.com/translations",
+    "info_link": "https://dergigi.com/books/",
+    "sources": [
+      "21lessons.com (200, CC-BY-SA link on page)",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Bitcoin & Black America",
+    "subtitle": null,
+    "authors": [
+      "Isaiah Jackson"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "culture",
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Bitcoin and Lightning Network on Raspberry Pi",
+    "subtitle": "Running Nodes on Pi3, Pi4 and Pi Zero",
+    "authors": [
+      "Harris Brakmić"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "lightning",
+      "self-custody",
+      "technical"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": "Only companion source code from the publisher (Apress), not the book text.",
+    "info_link": "https://www.oreilly.com/library/view/-/9781484255223/",
+    "notes": "Apress, Nov 2019. Covers bitcoind, LND and c-lightning.",
+    "borderline": false,
+    "sources": [
+      "Apress; library catalogues (ISBN 978-1-4842-5522-3)",
+      "github.com/jlopp/Blockchain-stuff"
+    ],
+    "companion_repo": "https://github.com/Apress/bitcoin-lightning-network-raspberry-pi",
+    "evidence": "Official Apress org repo, description 'Source Code for ... by Harris Brakmic', homepage apress.com/us/book/9781484255216."
+  },
+  {
+    "title": "Bitcoin Billionaires",
+    "subtitle": "A True Story of Genius, Betrayal, and Redemption",
+    "authors": [
+      "Ben Mezrich"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "history",
+      "biography"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "The Winklevoss twins' Bitcoin story.",
+    "borderline": false,
+    "sources": [
+      "Flatiron Books / Amazon",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Bitcoin Money",
+    "subtitle": "A Tale of Bitville Discovering Good Money",
+    "authors": [
+      "Michael Caras"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "children",
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Illustrated by Marina Yakubivska. Spanish translation 'El Dinero Bitcoin: el cuento de Bitvilla'.",
+    "borderline": false,
+    "sources": [
+      "Charter Bookstore (ISBN 9780578490670); Shortform",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Grokking Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Kalle Rosenbaum"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "technical",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": "https://rosenbaum.se/book/",
+    "free_link_note": "Open-source version, CC BY-NC-SA 4.0; free HTML on author's site, source at github.com/kallerosenbaum/grokkingbitcoin",
+    "info_link": "https://github.com/kallerosenbaum/grokkingbitcoin",
+    "sources": [
+      "Author site rosenbaum.se/book (200) and repo LICENSE file. Note: grokkingbitcoin.com is now an unrelated book by another author",
+      "Manning; London Bitcoin Devs meetup listing",
+      "lopp.net bitcoin books pages"
+    ],
+    "notes": "Manning, 2019. Foreword by David A. Harding.",
+    "borderline": false
+  },
+  {
+    "title": "Inventing Bitcoin",
+    "subtitle": "The Technology Behind the First Truly Scarce and Decentralized Money Explained",
+    "authors": [
+      "Yan Pritzker"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "technical",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": "https://www.swanbitcoin.com/inventing-bitcoin/",
+    "free_link_note": "Free ebook/audiobook copy offered by Swan (author's company) via 'Get your FREE copy' sign-up; delivery format not verified",
+    "info_link": "https://www.swanbitcoin.com/inventing-bitcoin/",
+    "sources": [
+      "swanbitcoin.com/freebook redirects here (200); author is Swan co-founder",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Programming Bitcoin",
+    "subtitle": "Learn How to Program Bitcoin from Scratch",
+    "authors": [
+      "Jimmy Song"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "programming",
+      "technical"
+    ],
+    "level": "advanced",
+    "free_link": "https://github.com/jimmysong/programmingbitcoin",
+    "free_link_note": "CC-BY-NC-ND 4.0, full text (AsciiDoc chapters) and code on author's GitHub",
+    "info_link": "https://github.com/jimmysong/programmingbitcoin",
+    "sources": [
+      "Author's repo github.com/jimmysong/programmingbitcoin README (license section)",
+      "O'Reilly; GitHub",
+      "lopp.net bitcoin books pages"
+    ],
+    "notes": "O'Reilly, 2019. Python implementation of Bitcoin primitives.",
+    "borderline": false
+  },
+  {
+    "title": "The Internet of Money, Volume Three",
+    "subtitle": null,
+    "authors": [
+      "Andreas M. Antonopoulos"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bitcoin-resources.com/books; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Little Bitcoin Book",
+    "subtitle": "Why Bitcoin Matters for Your Freedom, Finances, and Future",
+    "authors": [
+      "Timi Ajiboye",
+      "Luis Buenaventura",
+      "Alex Gladstein",
+      "Lily Liu",
+      "Alexander Lloyd",
+      "Alejandro Machado",
+      "Jimmy Song",
+      "Alena Vranova"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "beginner-intro",
+      "politics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; bitcoin-resources.com/books"
+    ]
+  },
+  {
+    "title": "Why Buy Bitcoin",
+    "subtitle": "Investing Today in the Money of Tomorrow",
+    "authors": [
+      "Andy Edstrom"
+    ],
+    "year": 2019,
+    "language": "English",
+    "topics": [
+      "investing"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "#SmartCustody",
+    "subtitle": "The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets",
+    "authors": [
+      "Blockchain Commons"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "self-custody"
+    ],
+    "level": "intermediate",
+    "free_link": "https://github.com/BlockchainCommons/SmartCustodyBook",
+    "free_link_note": "CC-BY-SA 4.0, manuscript on GitHub",
+    "info_link": "https://www.blockchaincommons.com/",
+    "sources": [
+      "Official Blockchain Commons repo README"
+    ]
+  },
+  {
+    "title": "Bitcoin Clarity",
+    "subtitle": "The Complete Beginners Guide to Understanding",
+    "authors": [
+      "Kiara Bickers"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Bitcoin Red Pill",
+    "subtitle": "O Renascimento Moral, Material e Tecnológico",
+    "authors": [
+      "Renato Amoedo",
+      "Alan Schramm"
+    ],
+    "year": 2020,
+    "language": "Portuguese",
+    "topics": [
+      "philosophy",
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Brazilian. 3rd edition retitled '...O Renascimento Moral e Tecnológico'.",
+    "borderline": false,
+    "sources": [
+      "Skoob; Investidor10"
+    ]
+  },
+  {
+    "title": "Bitcoin, Blockchain, and Cryptoassets",
+    "subtitle": "A Comprehensive Introduction",
+    "authors": [
+      "Fabian Schär",
+      "Aleksander Berentsen"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "technical",
+      "economics"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": "Companion University of Basel lecture slides (LaTeX), licensed CC-BY-NC-SA 4.0. These are not the book text.",
+    "info_link": null,
+    "notes": "MIT Press 2020; translation of the German 'Bitcoin, Blockchain und Kryptoassets' (2017). Bitcoin is the core, but later chapters cover Ethereum/tokens.",
+    "borderline": true,
+    "sources": [
+      "MIT Press"
+    ],
+    "companion_repo": "https://github.com/cifunibas/Bitcoin-Blockchain-Cryptoassets",
+    "evidence": "Owned by cifunibas, the Center for Innovative Finance at the University of Basel (cif.unibas.ch), which is the authors' institute. The book comes out of this lecture. The repo holds slide .tex files only."
+  },
+  {
+    "title": "Bitcoin: Hard Money You Can't F*ck With",
+    "subtitle": null,
+    "authors": [
+      "Jason A. Williams"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "investing",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'"
+    ]
+  },
+  {
+    "title": "Cryptoeconomics",
+    "subtitle": "Fundamental Principles of Bitcoin",
+    "authors": [
+      "Eric Voskuil"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "economics",
+      "philosophy",
+      "technical"
+    ],
+    "level": "advanced",
+    "free_link": "https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics",
+    "free_link_note": "Full text free on the libbitcoin GitHub wiki (print edition sold separately)",
+    "info_link": null,
+    "sources": [
+      "libbitcoin wiki (200)",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Kings of Crypto",
+    "subtitle": "One Startup's Quest to Take Cryptocurrency Out of Silicon Valley and Onto Wall Street",
+    "authors": [
+      "Jeff John Roberts"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "History of Coinbase; Bitcoin-heavy early chapters but covers the broader crypto industry.",
+    "borderline": true,
+    "sources": [
+      "Harvard Business Review Press / Amazon"
+    ]
+  },
+  {
+    "title": "Learning Bitcoin from the Command Line",
+    "subtitle": null,
+    "authors": [
+      "Christopher Allen",
+      "Shannon Appelcline"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "programming",
+      "technical"
+    ],
+    "level": "intermediate",
+    "free_link": "https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
+    "free_link_note": "CC-BY 4.0, read on GitHub (v2.2.2; v3.0 in progress); Spanish and Portuguese translations",
+    "info_link": "https://www.blockchaincommons.com/",
+    "sources": [
+      "Official Blockchain Commons repo README (license section)"
+    ]
+  },
+  {
+    "title": "Magic Internet Money",
+    "subtitle": "A Book About Bitcoin",
+    "authors": [
+      "Jesse Berger"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'"
+    ]
+  },
+  {
+    "title": "Thank God for Bitcoin",
+    "subtitle": "The Creation, Corruption and Redemption of Money",
+    "authors": [
+      "Bitcoin and Bible Group"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "The Price of Tomorrow",
+    "subtitle": "Why Deflation Is the Key to an Abundant Future",
+    "authors": [
+      "Jeff Booth"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "This Book Will Save You Time",
+    "subtitle": null,
+    "authors": [
+      "Misir Mahmudov"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'"
+    ]
+  },
+  {
+    "title": "Truth Decay",
+    "subtitle": "How Bitcoin Fixes This",
+    "authors": [
+      "Victoria Jones"
+    ],
+    "year": 2020,
+    "language": "English",
+    "topics": [
+      "culture",
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin and the American Dream",
+    "subtitle": null,
+    "authors": [
+      "Bitcoin Policy Group"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list"
+    ]
+  },
+  {
+    "title": "Bitcoin Saves the World",
+    "subtitle": null,
+    "authors": [
+      "Olena Osadcha"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "children"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Self-published illustrated book for ages 6-12.",
+    "borderline": false,
+    "sources": [
+      "childrensillustrators.com"
+    ]
+  },
+  {
+    "title": "La filosofía de Bitcoin",
+    "subtitle": "La caída del Estado",
+    "authors": [
+      "Álvaro D. María"
+    ],
+    "year": 2021,
+    "language": "Spanish",
+    "topics": [
+      "philosophy",
+      "politics"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Crowdfunded first edition (Dec 2021 per CriptoNoticias; some sources say 2022); Deusto (Planeta) edition Jan 2024. English translation 'The Philosophy of Bitcoin' (Bitcoin Magazine Books, 2023).",
+    "borderline": false,
+    "sources": [
+      "CriptoNoticias; Planeta/Deusto press sheet"
+    ]
+  },
+  {
+    "title": "Layered Money",
+    "subtitle": "From Gold and Dollars to Bitcoin and Central Bank Digital Currencies",
+    "authors": [
+      "Nik Bhatia"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "economics",
+      "history"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Mastering the Lightning Network",
+    "subtitle": "A Second Layer Blockchain Protocol for Instant Bitcoin Payments",
+    "authors": [
+      "Andreas M. Antonopoulos",
+      "Olaoluwa Osuntokun",
+      "René Pickhardt"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "lightning",
+      "technical"
+    ],
+    "level": "advanced",
+    "free_link": "https://github.com/lnbook/lnbook",
+    "free_link_note": "CC-BY-SA 4.0, read on GitHub",
+    "info_link": "https://github.com/lnbook/lnbook",
+    "sources": [
+      "Official repo github.com/lnbook/lnbook (GitHub API license CC-BY-SA-4.0)",
+      "O'Reilly; GitHub",
+      "nakamotolibrary.org (via search snippets)"
+    ],
+    "notes": "O'Reilly, Dec 2021.",
+    "borderline": false
+  },
+  {
+    "title": "The 7th Property",
+    "subtitle": "Bitcoin and the Monetary Revolution",
+    "authors": [
+      "Eric Yakes"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "economics",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "The Bitcoin Shortcut",
+    "subtitle": null,
+    "authors": [
+      "Craig Anthony"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Blocksize War",
+    "subtitle": "The battle over who controls Bitcoin's protocol rules",
+    "authors": [
+      "Jonathan Bier"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "history",
+      "development"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Self-published 2021.",
+    "borderline": false,
+    "sources": [
+      "Amazon / Goodreads",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "The Bullish Case for Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Vijay Boyapati"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "economics",
+      "investing"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "The Fiat Standard",
+    "subtitle": "The Debt Slavery Alternative to Human Civilization",
+    "authors": [
+      "Saifedean Ammous"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "The Promise of Bitcoin",
+    "subtitle": "The Future of Money and How It Can Work for You",
+    "authors": [
+      "Bobby C. Lee"
+    ],
+    "year": 2021,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'"
+    ]
+  },
+  {
+    "title": "Bitcoin & Exponential Freedom",
+    "subtitle": "How Hard Money Restores Freedom & Prosperity",
+    "authors": [
+      "Jake Leary"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin Development Philosophy",
+    "subtitle": "A Guide for Bitcoin Developers",
+    "authors": [
+      "Kalle Rosenbaum",
+      "Linnéa Rosenbaum"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "development",
+      "philosophy",
+      "technical"
+    ],
+    "level": "intermediate",
+    "free_link": "https://bitcoindevphilosophy.com/",
+    "free_link_note": "CC BY 4.0 (Chaincode Labs), free online; source github.com/bitcoin-dev-philosophy/btcphilosophy",
+    "info_link": "https://github.com/bitcoin-dev-philosophy/btcphilosophy",
+    "sources": [
+      "bitcoindevphilosophy.com (200) and repo LICENSE",
+      "bitcoindevphilosophy.com; retailer listings (Konsensus Network, ISBN 9789916723593)",
+      "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
+    ],
+    "notes": "Online edition circa 2022; print/ebook by Konsensus Network. Year not confirmed, left null.",
+    "borderline": false
+  },
+  {
+    "title": "Bitcoin Evangelism",
+    "subtitle": null,
+    "authors": [
+      "Brian E. De Mint"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin Is Venice",
+    "subtitle": null,
+    "authors": [
+      "Allen Farrington",
+      "Sacha Meyers"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "economics",
+      "philosophy"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "Bitcoin: Everything Divided by 21 Million",
+    "subtitle": null,
+    "authors": [
+      "Knut Svanholm"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "economics",
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)",
+      "lopp.net bitcoin books pages",
+      "Bitcoin Infinity Store; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Check Your Financial Privilege",
+    "subtitle": null,
+    "authors": [
+      "Alex Gladstein"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "politics",
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "Do Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Angelo Morgan-Somers"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Simplest Bitcoin Book Ever Written",
+    "subtitle": null,
+    "authors": [
+      "Keysa Luna"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Tracers in the Dark",
+    "subtitle": "The Global Hunt for the Crime Lords of Cryptocurrency",
+    "authors": [
+      "Andy Greenberg"
+    ],
+    "year": 2022,
+    "language": "English",
+    "topics": [
+      "history",
+      "privacy"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Centres on Bitcoin blockchain tracing (Chainalysis, Silk Road, Welcome to Video, BTC-e).",
+    "borderline": false,
+    "sources": [
+      "Doubleday / Amazon",
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "A Progressive's Case for Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "C. Jason Maier"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "politics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "Apr 2023; updated edition later.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "Abundance Through Scarcity",
+    "subtitle": null,
+    "authors": [
+      "Ioni Appelberg"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin is Better",
+    "subtitle": null,
+    "authors": [
+      "Daniel Hershberger"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin vs Altcoins",
+    "subtitle": null,
+    "authors": [
+      "Phil Champagne"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "technical"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin: A Game Theoretic Analysis",
+    "subtitle": null,
+    "authors": [
+      "Micah Warren"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "technical",
+      "economics"
+    ],
+    "level": "advanced",
+    "free_link": null,
+    "free_link_note": "Book is a paid De Gruyter textbook (not open access). Author's GitHub has related Python simulations/problem solutions, no book text, no license.",
+    "info_link": "https://books.google.ca/books?id=hL-oEAAAQBAJ",
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ],
+    "companion_repo": "https://github.com/micah541/GameTheory",
+    "evidence": "micah541 is Micah Warren (his UOregon page links github.com/micah541/censorship); repo 'Game Theory and Probability for Bitcoin' holds mining/game-theory scripts and problem solutions matching the book's topics. Loosely companion, not declared as such."
+  },
+  {
+    "title": "Broken Money",
+    "subtitle": "Why Our Financial System Is Failing Us and How We Can Make It Better",
+    "authors": [
+      "Lyn Alden"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics",
+      "history"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Cryptosovereignty",
+    "subtitle": null,
+    "authors": [
+      "Erik Cason"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "politics",
+      "privacy"
+    ],
+    "level": "advanced",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "Aug 2023.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "Decrypting Money",
+    "subtitle": null,
+    "authors": [],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets) (collected authors)"
+    ]
+  },
+  {
+    "title": "Die orange Pille",
+    "subtitle": "Warum Bitcoin weit mehr als nur ein neues Geld ist",
+    "authors": [
+      "Ijoma Mangold"
+    ],
+    "year": 2023,
+    "language": "German",
+    "topics": [
+      "philosophy",
+      "culture",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://www.dtv.de/foreign-rights/buch/die-orange-pille-28312",
+    "notes": "Spiegel bestseller by a Die Zeit literary critic.",
+    "borderline": false,
+    "sources": [
+      "LovelyBooks (ISBN 9783949098451; dtv paperback 9783423352291, 2024)",
+      "Blocktrainer / ceecee.cc / dtv (search)"
+    ]
+  },
+  {
+    "title": "Fiat Ruins Everything",
+    "subtitle": null,
+    "authors": [
+      "Jimmy Song"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics",
+      "culture"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "Aug 2023. Critique of fiat money from a Bitcoin perspective.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "Gradually, Then Suddenly",
+    "subtitle": "A Framework for Understanding Bitcoin as Money",
+    "authors": [
+      "Parker Lewis"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": "https://nakamotoinstitute.org/library/gradually-then-suddenly/table-of-contents/",
+    "free_link_note": "Free to read online at Satoshi Nakamoto Institute (publisher's library)",
+    "info_link": "https://nakamotoinstitute.org/library/gradually-then-suddenly/",
+    "sources": [
+      "nakamotoinstitute.org library page (200, 'Read online')",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Hidden Repression",
+    "subtitle": "How the IMF and World Bank Sell Exploitation as Development",
+    "authors": [
+      "Alex Gladstein"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "politics",
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "History Echoes Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Tim Niemeyer"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Mastering Bitcoin",
+    "subtitle": "Programming the Open Blockchain (3rd Edition)",
+    "authors": [
+      "Andreas M. Antonopoulos",
+      "David A. Harding"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "technical",
+      "programming"
+    ],
+    "level": "intermediate",
+    "free_link": "https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md",
+    "free_link_note": "CC-BY-SA 4.0 (3rd ed.; 1st and 2nd editions also CC-BY-SA in same repo as release tags). Read chapters on GitHub; translations via bitcoinbook.info/Transifex",
+    "info_link": "https://github.com/bitcoinbook/bitcoinbook",
+    "sources": [
+      "Official repo github.com/bitcoinbook/bitcoinbook README (HTTP 200, license text checked)",
+      "O'Reilly; GitHub release page",
+      "lopp.net bitcoin books pages"
+    ],
+    "notes": "1st ed. 2014 (subtitle 'Unlocking Digital Cryptocurrencies', Antonopoulos alone), 2nd ed. 2017, 3rd ed. Dec 2023 co-authored with David A. Harding. Translations: Spanish (community), Japanese (NTT出版, 『ビットコインとブロックチェーン』), many others.",
+    "borderline": false
+  },
+  {
+    "title": "Number Go Up",
+    "subtitle": "Inside Crypto's Wild Rise and Staggering Fall",
+    "authors": [
+      "Zeke Faux"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Mostly about FTX, Tether and the crypto bubble; Bitcoin is not the focus.",
+    "borderline": true,
+    "sources": [
+      "Currency / Amazon"
+    ]
+  },
+  {
+    "title": "Proof of Money",
+    "subtitle": null,
+    "authors": [
+      "Terence Michael"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list"
+    ]
+  },
+  {
+    "title": "Softwar",
+    "subtitle": "A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin",
+    "authors": [
+      "Jason P. Lowery"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "politics",
+      "philosophy"
+    ],
+    "level": "advanced",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list"
+    ]
+  },
+  {
+    "title": "The Bible and Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Alin Armstrong"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Bitcoin Handbook",
+    "subtitle": "Key Concepts in Economics, Technology & Psychology",
+    "authors": [
+      "Anil Patel"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "beginner-intro",
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
+    ]
+  },
+  {
+    "title": "The Bitcoin-Dollar",
+    "subtitle": null,
+    "authors": [
+      "Mark Goodwin"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics",
+      "politics"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "Aug 2023; listed as 'The Bitcoin-Dollar Book' on the catalogue page.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "The Hidden Cost of Money",
+    "subtitle": null,
+    "authors": [
+      "Seb Bunney"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list"
+    ]
+  },
+  {
+    "title": "The Philosophy of Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Álvaro D. María"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "Why Bitcoin?",
+    "subtitle": null,
+    "authors": [
+      "Tomer Strolight"
+    ],
+    "year": 2023,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'; bitcoin-resources.com/books"
+    ]
+  },
+  {
+    "title": "Bitcoin Explained Like I'm 5",
+    "subtitle": "A Simple Guide",
+    "authors": [
+      "Danny Scott"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin Books'"
+    ]
+  },
+  {
+    "title": "Bitcoin Prophecy",
+    "subtitle": null,
+    "authors": [
+      "Ariel A. Aguilar"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Hijacking Bitcoin",
+    "subtitle": "The Hidden History of BTC",
+    "authors": [
+      "Roger Ver",
+      "Steve Patterson"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "I Am Not Your Bruh",
+    "subtitle": null,
+    "authors": [
+      "George Mekhail"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "June 2024.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue"
+    ]
+  },
+  {
+    "title": "Intro to Bitcoin",
+    "subtitle": "Hope for a Better World",
+    "authors": [
+      "Erin E. Malone"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Introduction to Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Florin T. Hilbay"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "National Security in the Digital Age",
+    "subtitle": null,
+    "authors": [
+      "Matthew Pines",
+      "Kyle Schneps"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Parallel",
+    "subtitle": null,
+    "authors": [
+      "Brian E. De Mint",
+      "Knut Svanholm",
+      "Daniel Prince"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Pay Attention to Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Joseph Voelbel"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Resistance Money",
+    "subtitle": "A Philosophical Case for Bitcoin",
+    "authors": [
+      "Andrew M. Bailey",
+      "Bradley Rettler",
+      "Craig Warmke"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "politics"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://www.resistance.money/",
+    "notes": "Routledge, June 2024. Academic philosophy authors.",
+    "borderline": false,
+    "sources": [
+      "Routledge; resistance.money FAQ; Princeton book talk",
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Shells to Satoshi",
+    "subtitle": null,
+    "authors": [
+      "Deanna Heikkinen",
+      "Joel Marquez"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "history",
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Atlas Maneuver",
+    "subtitle": null,
+    "authors": [
+      "Steve Berry"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "fiction"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Cotton Malone #18; Bitcoin is the plot driver.",
+    "borderline": false,
+    "sources": [
+      "Grand Central (ISBN 9781538721032); BookTrib interview"
+    ]
+  },
+  {
+    "title": "The Big Bitcoin Book",
+    "subtitle": null,
+    "authors": [
+      "Fred Krueger",
+      "Ben Sigman"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Bitcoin Miners Almanac",
+    "subtitle": null,
+    "authors": [
+      "Robert Warren"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "mining"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "Bitcoin Magazine Books, June 2024.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "The Bitcoin Singularity",
+    "subtitle": null,
+    "authors": [
+      "Ruth Heasman"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "fiction"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Dystopian 2026 London; plot involves Satoshi's coins.",
+    "borderline": false,
+    "sources": [
+      "Vellichor Press; Better Read listing"
+    ]
+  },
+  {
+    "title": "The Bushido of Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Aleksandar Svetski"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list"
+    ]
+  },
+  {
+    "title": "The Conservative Case for Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Mitchell Askew"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "thingelstad.com Bitcoin Books list"
+    ]
+  },
+  {
+    "title": "The Dao of Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Scott Dedels"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Genesis Book",
+    "subtitle": "The Story of the People and Projects That Inspired Bitcoin",
+    "authors": [
+      "Aaron van Wirdum"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "Released 3 Jan 2024. Italian translation exists.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "lopp.net bitcoin books pages; Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "The Gospel According to Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Daniel Sherman",
+      "J.M. Bush"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Nakamoto Consensus",
+    "subtitle": null,
+    "authors": [
+      "Nicholas Nell"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "technical"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Twenty One Questions",
+    "subtitle": null,
+    "authors": [
+      "Spirit of Satoshi",
+      "Aleksandar Svetski"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Walking Banks",
+    "subtitle": null,
+    "authors": [
+      "AH White"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "fiction"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://booklife.com/project/walking-banks-95910",
+    "sources": [
+      "Nostr/Stacker News community posts (search)"
+    ]
+  },
+  {
+    "title": "Would Mao Hold Bitcoin?",
+    "subtitle": null,
+    "authors": [
+      "Roger Huang"
+    ],
+    "year": 2024,
+    "language": "English",
+    "topics": [
+      "politics",
+      "history"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "June 2024. Bitcoin and China.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books); nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "21 Views From Mount Fuji",
+    "subtitle": null,
+    "authors": [
+      "Haiku Nakamoto",
+      "Carl Andrews"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin Age",
+    "subtitle": null,
+    "authors": [
+      "Nik Bhatia"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin Consolidated",
+    "subtitle": null,
+    "authors": [
+      "David Marulli"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin Is for Everyone",
+    "subtitle": null,
+    "authors": [
+      "Natalie Brunell"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin One Million",
+    "subtitle": null,
+    "authors": [
+      "Fred Krueger",
+      "Ben Sigman"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "investing"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Break the Stake",
+    "subtitle": null,
+    "authors": [
+      "Jake Galt"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Energy Use in Bitcoin Mining",
+    "subtitle": "The Environmental Impact of Cryptocurrencies",
+    "authors": [
+      "Benjamin A. Jones",
+      "Andrew L. Goodkind",
+      "Robert P. Berrens"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "mining",
+      "energy"
+    ],
+    "level": "advanced",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Routledge listing (search)"
+    ]
+  },
+  {
+    "title": "Exponential Gold",
+    "subtitle": null,
+    "authors": [
+      "André Dragosch"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "investing",
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Future Proof",
+    "subtitle": null,
+    "authors": [
+      "Erin E. Malone"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Modern Chains",
+    "subtitle": null,
+    "authors": [
+      "Neal Flesher"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Principles of Bitcoin",
+    "subtitle": "Technology, Economics, Politics, and Philosophy",
+    "authors": [
+      "Vijay Selvam"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "economics",
+      "technical",
+      "philosophy"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Satoshi's Gift",
+    "subtitle": null,
+    "authors": [
+      "Michael Hollomon Jr."
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Self Bitcoinization",
+    "subtitle": null,
+    "authors": [
+      "Noah T. Kaufman"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The 42-Page Bitcoin Book",
+    "subtitle": null,
+    "authors": [
+      "Craig Anthony"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Big Print",
+    "subtitle": "What Happened to America and How Sound Money Will Fix It",
+    "authors": [
+      "Lawrence Lepard"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "economics",
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "The Bitcoin Times",
+    "subtitle": null,
+    "authors": [
+      "Aleksandar Svetski",
+      "Knut Svanholm"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Devil Takes Bitcoin",
+    "subtitle": "Cryptocurrency Crimes and the Japanese Connection",
+    "authors": [
+      "Jake Adelstein"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Scribe, Sept 2025 (AU), Oct 2025 (US). Mt. Gox-centred but covers wider Japanese crypto crime.",
+    "borderline": true,
+    "sources": [
+      "Scribe Publications (ISBN 9781761381300); FCCJ book event",
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Great Harvest",
+    "subtitle": null,
+    "authors": [
+      "Adam Livingston"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "investing"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Little Book of Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Anthony Scaramucci"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "beginner-intro",
+      "investing"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Mysterious Mr. Nakamoto",
+    "subtitle": "A Fifteen-Year Quest to Unmask the Secret Genius Behind Crypto",
+    "authors": [
+      "Benjamin Wallace"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "history",
+      "biography"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Privatization of Money",
+    "subtitle": null,
+    "authors": [
+      "Shimon Lazarov"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Satoshi Papers",
+    "subtitle": null,
+    "authors": [
+      "Natalie Smolenski"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "politics",
+      "philosophy"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://bitcoinmagazine.com/bitcoin-magazine-books",
+    "notes": "Edited volume (Smolenski is editor). Paperback Mar 2025, library edition May 2025.",
+    "borderline": false,
+    "sources": [
+      "Bitcoin Magazine Books catalogue",
+      "Bitcoin Magazine Books catalog (bitcoinmagazine.com/bitcoin-magazine-books)"
+    ]
+  },
+  {
+    "title": "Why Bitcoin Was Inevitable",
+    "subtitle": null,
+    "authors": [
+      "Nicholas Urso"
+    ],
+    "year": 2025,
+    "language": "English",
+    "topics": [
+      "history",
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Bitcoin l'eletto",
+    "subtitle": null,
+    "authors": [
+      "Antonio De Santis"
+    ],
+    "year": 2026,
+    "language": "Italian",
+    "topics": [
+      "economics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "OM edizioni, 'I Saggi' series, 327 pp. Content not verified beyond listing.",
+    "borderline": false,
+    "sources": [
+      "Unilibro (ISBN 9788892726994)"
+    ]
+  },
+  {
+    "title": "Black, Red, and Orange",
+    "subtitle": null,
+    "authors": [
+      "Benjamin de Waal"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Crypto for Kids",
+    "subtitle": "Discover Bitcoin and Blockchain the Fun Way",
+    "authors": [
+      "Patrik Spiess"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "children"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Ages 9+. Title suggests general crypto content.",
+    "borderline": true,
+    "sources": [
+      "BoD (ISBN 9783695185023)"
+    ]
+  },
+  {
+    "title": "Defending Bitcoin",
+    "subtitle": "Industrial-Grade Cybersecurity for the Monetary Grid",
+    "authors": [
+      "Luke de Wolf"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "technical",
+      "self-custody",
+      "mining"
+    ],
+    "level": "intermediate",
+    "free_link": "https://defendingbitcoin.com/reader",
+    "free_link_note": "Complete book free to read in browser on author's official site (license not stated); print sold separately",
+    "info_link": "https://defendingbitcoin.com/",
+    "sources": [
+      "defendingbitcoin.com (200, 'The complete book, read in your browser for free'); subtitle per Bitcoin Infinity/BTC Prague bio",
+      "nakamotolibrary.org (via search snippets); Bitcoin Infinity Show"
+    ]
+  },
+  {
+    "title": "Digital Real Estate",
+    "subtitle": null,
+    "authors": [
+      "Leon Wankum"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "investing"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Sound Money, Living Water",
+    "subtitle": null,
+    "authors": [
+      "John Quinby"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Belief Machine",
+    "subtitle": null,
+    "authors": [
+      "Brett Hansen"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Bitcoin Mask",
+    "subtitle": "Who Owned Satoshi",
+    "authors": [
+      "Pooyan Ghamari"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "fiction"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Self-published financial thriller about the Satoshi myth.",
+    "borderline": false,
+    "sources": [
+      "BoD shop"
+    ]
+  },
+  {
+    "title": "The Most American Idea",
+    "subtitle": null,
+    "authors": [
+      "Michael Winning"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "The Physics of Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Giovanni Santostasi"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "technical"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "Unconfiscatable",
+    "subtitle": null,
+    "authors": [
+      "Joe Carlasare"
+    ],
+    "year": 2026,
+    "language": "English",
+    "topics": [
+      "self-custody",
+      "politics"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "nakamotolibrary.org (via search snippets)"
+    ]
+  },
+  {
+    "title": "21 Futures",
+    "subtitle": "Tales from the Timechain",
+    "authors": [
+      "Philip Charter",
+      "Niko Laamanen"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "fiction"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Konsensus Network catalog (via litres.ru author page / konsensus.net search); Bitcoin Magazine review"
+    ]
+  },
+  {
+    "title": "21 Ways",
+    "subtitle": "21 Ways To Look At Bitcoin",
+    "authors": [
+      "Gigi"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "philosophy",
+      "culture"
+    ],
+    "level": "beginner",
+    "free_link": "https://21-ways.com/",
+    "free_link_note": "Work in progress; published chapters free online, CC-BY-SA 4.0",
+    "info_link": "https://dergigi.com/books/",
+    "sources": [
+      "21-ways.com (200), linked from dergigi.com/books"
+    ]
+  },
+  {
+    "title": "B Is for Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Graeme Moore"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "children"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Cointelegraph Magazine kids-books article"
+    ]
+  },
+  {
+    "title": "Bitcoin 2140 Genesis",
+    "subtitle": "A Tale of Digital Gold and Human Freedom",
+    "authors": [
+      "Michael McGilbourne"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "fiction"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin Books'"
+    ]
+  },
+  {
+    "title": "Bitcoin a jiné kryptopeníze budoucnosti",
+    "subtitle": "Historie, ekonomie a technologie kryptoměn",
+    "authors": [
+      "Dominik Stroukal",
+      "Jan Skalický"
+    ],
+    "year": null,
+    "language": "Czech",
+    "topics": [
+      "economics",
+      "history",
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Grada; editions confirmed 2018 and 2021 (3rd ext. ed.); Slovak translation 2024. First-edition year not confirmed. Covers other cryptocurrencies too but Bitcoin-centred.",
+    "borderline": false,
+    "sources": [
+      "Grada; VŠFS and CEVRO catalogues"
+    ]
+  },
+  {
+    "title": "Bitcoin Alpha v0.01",
+    "subtitle": null,
+    "authors": [
+      "Pirate Hash"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "culture"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bitcoin-resources.com/books"
+    ]
+  },
+  {
+    "title": "Bitcoin Design Guide",
+    "subtitle": null,
+    "authors": [
+      "Bitcoin Design Community"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "development",
+      "self-custody"
+    ],
+    "level": "intermediate",
+    "free_link": "https://bitcoin.design/guide/",
+    "free_link_note": "Not a traditional book: a free, open-source online design reference for bitcoin applications",
+    "info_link": "https://bitcoin.design/",
+    "sources": [
+      "bitcoin.design/guide (200)"
+    ],
+    "borderline": true,
+    "notes": "Online design reference, not a book."
+  },
+  {
+    "title": "Bitcoin Diploma",
+    "subtitle": "Mi Primer Bitcoin / My First Bitcoin curriculum",
+    "authors": [
+      "Mi Primer Bitcoin"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "beginner-intro",
+      "economics"
+    ],
+    "level": "beginner",
+    "free_link": "https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma",
+    "free_link_note": "Open-source curriculum book (student guide) on official GitHub, ~23 languages; earlier editions CC-BY-SA, current repo license not stated",
+    "info_link": "https://myfirstbitcoin.org/",
+    "sources": [
+      "Official MyFirstBitcoin GitHub org (200). Old Bitcoin-Diploma-2025 repo now 404",
+      "konsensus.net; nobsbitcoin.com"
+    ]
+  },
+  {
+    "title": "Bitcoin en Blockchain",
+    "subtitle": null,
+    "authors": [
+      "Herbert Blankesteijn"
+    ],
+    "year": null,
+    "language": "Dutch",
+    "topics": [
+      "beginner-intro",
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "By Dutch tech journalist (BNR). ~170 pp. Year not confirmed; title also covers blockchain but is Bitcoin-led.",
+    "borderline": false,
+    "sources": [
+      "Lenthe Publishers; securities.io NL"
+    ]
+  },
+  {
+    "title": "Bitcoin for Kiddos",
+    "subtitle": null,
+    "authors": [
+      "Chris Bobay",
+      "Frieda Bobay"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "children"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bitcoin-resources.com/books"
+    ]
+  },
+  {
+    "title": "Bitcoin Mining Economics",
+    "subtitle": null,
+    "authors": [
+      "Karim Helmy",
+      "Tom Masiero",
+      "Daniel Sempere Pico",
+      "Drew Armstrong",
+      "Daniel Frumkin"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "mining",
+      "energy"
+    ],
+    "level": "intermediate",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": "https://braiins.com/books/bitcoin-mining-economics",
+    "sources": [
+      "braiins.com (search)"
+    ]
+  },
+  {
+    "title": "Bitcoin Programming",
+    "subtitle": "A textbook",
+    "authors": [
+      "Kostas Karasavvas"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "programming"
+    ],
+    "level": "intermediate",
+    "free_link": "https://github.com/karask/bitcoin-textbook",
+    "free_link_note": "free PDF, author's GitHub",
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Bitcoin: A Work in Progress",
+    "subtitle": null,
+    "authors": [
+      "Sjors Provoost"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "technical",
+      "development"
+    ],
+    "level": "intermediate",
+    "free_link": "https://github.com/Sjors/nado-book",
+    "free_link_note": "CC-BY-SA 4.0 (LICENSE.md, Copyright Sjors Provoost), full manuscript in Markdown/Pandoc; paperback PDFs attached to releases (e.g. v1.0.5: https://github.com/Sjors/nado-book/releases/tag/v1.0.5)",
+    "info_link": "https://www.btcwip.com/",
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ],
+    "evidence": "Repo owned by author's GitHub account Sjors; description 'Bitcoin: A Work in Progress (book source code)', homepage btcwip.com (official book site)"
+  },
+  {
+    "title": "Bitcoin: Odluka peněz od státu",
+    "subtitle": null,
+    "authors": [
+      "Josef Tětek"
+    ],
+    "year": null,
+    "language": "Czech",
+    "topics": [
+      "economics",
+      "politics"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "English edition 'Bitcoin: Separation of Money and State' (Braiins, 2023, 119 pp). Czech original year not confirmed.",
+    "borderline": false,
+    "sources": [
+      "Moravian Library record; Braiins store"
+    ]
+  },
+  {
+    "title": "Energy, the Flip Side of Money",
+    "subtitle": null,
+    "authors": [
+      "Pierre Noizat"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "energy",
+      "mining"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
+    ]
+  },
+  {
+    "title": "Goodnight Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Scott Sibley",
+      "Mallory Sibley"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "children"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bitcoin-resources.com/books; Cointelegraph Magazine kids-books article"
+    ]
+  },
+  {
+    "title": "If You Give a Monster a Bitcoin",
+    "subtitle": null,
+    "authors": [
+      "Scott Sibley",
+      "Mallory Sibley"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "children"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bitcoin-resources.com/books"
+    ]
+  },
+  {
+    "title": "Kicking the Hornet's Nest",
+    "subtitle": "The Complete Writings, Emails, and Forum Posts of Satoshi Nakamoto",
+    "authors": [
+      "Satoshi Nakamoto"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "history"
+    ],
+    "level": null,
+    "free_link": "https://github.com/crrdlx/kicking-hornets-nest",
+    "free_link_note": "GPL-3.0 repo with full compilation PDF (Kicking_the_Hornets_Nest-010319.pdf, 2019 edition) of Satoshi's writings; newer editions (incl. COPA emails) are distributed free by the compiler via links in his hive.blog post https://hive.blog/@crrdlx/satoshi",
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages"
+    ],
+    "evidence": "Repo owned by crrdlx, who is the compiler of the collection (his hive.blog post lists the official free PDF/text copies and the Lulu print edition). Underlying texts are Satoshi's public writings. Repo is from 2020 so it holds an older edition."
+  },
+  {
+    "title": "L'uomo più ricco del mondo",
+    "subtitle": null,
+    "authors": [
+      "Gian Luca Comandini"
+    ],
+    "year": null,
+    "language": "Italian",
+    "topics": [
+      "history"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "notes": "Investigation into the identity of Satoshi Nakamoto. Year not confirmed.",
+    "borderline": false,
+    "sources": [
+      "Perlego listing"
+    ]
+  },
+  {
+    "title": "Onboarding to Bitcoin Core",
+    "subtitle": "The missing onboarding guide to Bitcoin Core",
+    "authors": [
+      "Will Clark"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "development"
+    ],
+    "level": "advanced",
+    "free_link": "https://bitcoincore.academy/",
+    "free_link_note": "Free online guide/book (Chaincode Labs); source on GitHub",
+    "info_link": "https://github.com/chaincodelabs/onboarding-to-bitcoin-core",
+    "sources": [
+      "bitcoincore.academy (200), repo homepage field"
+    ]
+  },
+  {
+    "title": "Orange Pilled",
+    "subtitle": "A Brief Introduction to Bitcoin",
+    "authors": [
+      "Daniel Howell"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "beginner-intro"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bookseller listing (search)"
+    ]
+  },
+  {
+    "title": "Praxeology",
+    "subtitle": "The Invisible Hand That Feeds Bitcoin",
+    "authors": [
+      "Knut Svanholm"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "economics",
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "lopp.net bitcoin books pages; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
+    ]
+  },
+  {
+    "title": "Programming the Blockchain in C#",
+    "subtitle": null,
+    "authors": [
+      "Nicolas Dorier",
+      "Adam Ficsor"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "programming"
+    ],
+    "level": "advanced",
+    "free_link": "https://programmingblockchain.gitbook.io/programmingblockchain",
+    "free_link_note": "Free open-source book (NBitcoin) on GitBook; source on GitHub; Indonesian/Japanese/Korean translations",
+    "info_link": "https://github.com/ProgrammingBlockchain/ProgrammingBlockchain",
+    "sources": [
+      "Official repo README links to GitBook (200)",
+      "lopp.net bitcoin books pages"
+    ]
+  },
+  {
+    "title": "Sade's Satoshi",
+    "subtitle": null,
+    "authors": [
+      "Charlene Fadirepo"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "children"
+    ],
+    "level": "beginner",
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "bitcoin-resources.com/books"
+    ]
+  },
+  {
+    "title": "The Cathedral Problem",
+    "subtitle": null,
+    "authors": [
+      "Christian Evertz"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "economics",
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "search (ibs.it / everand listing)"
+    ]
+  },
+  {
+    "title": "The Praxeology of Privacy",
+    "subtitle": null,
+    "authors": [
+      "Max Hillebrand"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "privacy",
+      "philosophy",
+      "economics"
+    ],
+    "level": null,
+    "free_link": "https://konsensus.net/books/free",
+    "free_link_note": "free ebook from publisher (Konsensus)",
+    "info_link": null,
+    "sources": [
+      "konsensus.net/books/free (search snippet)"
+    ]
+  },
+  {
+    "title": "The UnCommunist Manifesto",
+    "subtitle": null,
+    "authors": [
+      "Aleksandar Svetski"
+    ],
+    "year": null,
+    "language": "English",
+    "topics": [
+      "politics",
+      "philosophy"
+    ],
+    "level": null,
+    "free_link": null,
+    "free_link_note": null,
+    "info_link": null,
+    "sources": [
+      "Goodreads list 'Bitcoin, Money & the Economy'; Konsensus Network catalog (via litres.ru author page / konsensus.net search)"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+# Generated from books.json, review copy only
+BOOKS.md
+
+# Dependencies and build output
+node_modules/
+dist/
+.astro/
+
+# Local env and OS files
+.env
+.env.*
+.DS_Store
