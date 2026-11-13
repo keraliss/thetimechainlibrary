@@ -1,4 +1,4 @@
-import { useState, type CSSProperties } from "react";
+import { useEffect, useRef, useState, type CSSProperties } from "react";
 import type { Book } from "~/lib/books";
 import { BitcoinMark } from "~/components/ui/BitcoinMark";
 
@@ -36,12 +36,20 @@ export function BookCover({ book }: { book: Book }) {
   const [loaded, setLoaded] = useState<string | null>(null);
   const [failed, setFailed] = useState<string | null>(null);
   const showImage = book.cover && failed !== book.cover;
+  // On a prerendered page the image can finish (or fail) loading before React attaches
+  // onLoad/onError, and then they never fire: check once on mount.
+  const img = useRef<HTMLImageElement>(null);
+  useEffect(() => {
+    const el = img.current;
+    if (el?.complete) (el.naturalWidth > 0 ? setLoaded : setFailed)(book.cover!);
+  }, [book.cover]);
   return (
     <div className="relative aspect-2/3 w-full overflow-hidden rounded-r-sm shadow-[0_12px_30px_#0005]">
       <GeneratedCover book={book} />
       {showImage && (
         <>
           <img
+            ref={img}
             src={book.cover!}
             alt={`Cover of ${book.title}`}
             loading="lazy"
