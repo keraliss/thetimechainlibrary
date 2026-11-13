@@ -1,15 +1,17 @@
 /* Each book owns its perspective; shelves stay in ordinary document flow. */
-.catalog-shelves { display: grid; grid-template-columns: repeat(auto-fill, minmax(108px, 1fr)); padding: 20px 30px 0; column-gap: 0; row-gap: 140px; }
-.catalog-stack-slot { position: relative; min-width: 0; padding-top: 12px; border-bottom: 14px solid var(--color-wood-light); box-shadow: 0 14px 18px #0008; }
-.catalog-stack-book { position: relative; width: calc(100% + 40px); margin-left: -20px; transform: perspective(900px) rotateY(-32deg); transform-origin: center bottom; transition: transform 250ms ease; }
-.catalog-stack-caption { position: absolute; top: calc(100% + 22px); left: -12px; width: calc(100% + 24px); padding: 10px; border: 1px solid var(--color-gold); background: var(--color-night); opacity: 0; visibility: hidden; pointer-events: none; transition: opacity 180ms ease; }
+/* --gap is the space between books; each slot's plank reaches into it so the shelf stays one piece. */
+.catalog-shelves { --gap: 16px; display: grid; grid-template-columns: repeat(auto-fill, minmax(108px, 1fr)); padding: 20px 30px 0; column-gap: var(--gap); row-gap: 154px; }
+.catalog-stack-slot { position: relative; min-width: 0; padding-top: 12px; }
+.catalog-stack-slot::after { content: ""; position: absolute; left: calc(var(--gap) / -2); right: calc(var(--gap) / -2); bottom: -14px; height: 14px; background: var(--color-wood-light); box-shadow: 0 14px 18px #0008; }
+.catalog-stack-book { position: relative; width: calc(100% + 16px); margin-left: -8px; transform: perspective(900px) rotateY(-32deg); transform-origin: center bottom; transition: transform 250ms ease; }
+.catalog-stack-caption { position: absolute; top: calc(100% + 36px); left: -12px; width: calc(100% + 24px); padding: 10px; border: 1px solid var(--color-gold); background: var(--color-night); opacity: 0; visibility: hidden; pointer-events: none; transition: opacity 180ms ease; }
 .catalog-stack-slot:focus-within, .catalog-stack-slot.is-active { z-index: 10; }
 .catalog-stack-slot:focus-within .catalog-stack-book, .catalog-stack-slot.is-active .catalog-stack-book { transform: perspective(900px) rotateY(0deg) translateY(-14px) scale(1.08); }
 .catalog-stack-slot:focus-within .catalog-stack-caption, .catalog-stack-slot.is-active .catalog-stack-caption { opacity: 1; visibility: visible; }
 .catalog-shelves { margin-bottom: 140px; }
 @media (min-width: 640px) {
-  .catalog-shelves { grid-template-columns: repeat(auto-fill, minmax(135px, 1fr)); padding-inline: 32px; }
-  .catalog-stack-book { width: calc(100% + 64px); margin-left: -32px; transform: perspective(900px) rotateY(-42deg); }
+  .catalog-shelves { --gap: 28px; grid-template-columns: repeat(auto-fill, minmax(135px, 1fr)); padding-inline: 32px; }
+  .catalog-stack-book { width: calc(100% + 24px); margin-left: -12px; transform: perspective(900px) rotateY(-42deg); }
 }
 @media (hover: hover) {
   .catalog-stack-slot:hover { z-index: 10; }

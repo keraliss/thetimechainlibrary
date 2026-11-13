@@ -2,6 +2,7 @@ import { lazy, Suspense, useEffect, useRef, useState, type ReactNode } from "rea
 import {
   motion,
   useMotionValue,
+  useMotionValueEvent,
   useReducedMotion,
   useScroll,
   useSpring,
@@ -65,6 +66,15 @@ export function Hero() {
   const cam = useTransform(progress, (p) => (reduced ? 0 : WALK_DISTANCE * smoothstep(Math.min(1, p / WALK_END))));
   const titleY = useTransform(scrollYProgress, [0, 0.15], [0, reduced ? 0 : -120]);
   const titleOpacity = useTransform(scrollYProgress, [0, 0.12], [1, 0]);
+
+  // People stopped mid-walk and at the wall of covers, unsure there was more. A "keep
+  // scrolling" plaque takes over from the title and stays for the whole walk; its line says
+  // what's next. It fades as the stacks come in (that span is past this section's pinning, so
+  // it's measured over the section's full scroll: 2/3 is where the stacks start to show).
+  const { scrollYProgress: passed } = useScroll({ target: ref, offset: ["start start", "end start"] });
+  const cueOpacity = useTransform(passed, [0.04, 0.08, 0.667, 0.7], [0, 1, 1, 0]);
+  const [atWall, setAtWall] = useState(false);
+  useMotionValueEvent(scrollYProgress, "change", (p) => setAtWall(p > 0.85));
 
   // Looking around follows the mouse anywhere in the window (the stacks overlap the end of
   // the walk, so a listener on this section alone would stop working there).
@@ -151,7 +161,22 @@ export function Hero() {
             Enter the stacks
             <span className="ml-3 inline-block transition group-hover:translate-y-0.5">↓</span>
           </motion.a>
+          {!reduced && (
+            <motion.p className="mt-3 text-sm text-parchment/60 italic" variants={rise} initial="hidden" animate="shown" custom={5}>
+              or scroll to walk in
+            </motion.p>
+          )}
         </motion.div>
+
+        {!reduced && (
+          <motion.div style={{ opacity: cueOpacity }} className="pointer-events-none absolute inset-x-0 bottom-0 flex justify-center bg-linear-to-t from-night via-night/60 to-transparent px-4 pt-20 pb-[5vh]">
+            <div className="flex flex-col items-center rounded-sm border border-gold/50 bg-night/80 px-6 py-3 text-center shadow-[0_0_40px_#0009] backdrop-blur-sm sm:px-10">
+              <span className="font-heading text-xs tracking-[0.4em] text-gold uppercase sm:text-sm">Keep scrolling</span>
+              <span className="mt-1 text-base text-parchment/90 italic sm:text-lg">{atWall ? "to enter the stacks and browse every book" : "to walk through the hall"}</span>
+              <span className="mt-1 animate-bounce text-xl text-gold">↓</span>
+            </div>
+          </motion.div>
+        )}
       </div>
     </section>
   );

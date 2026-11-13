@@ -1,6 +1,8 @@
 import { Hero } from "~/components/hero/Hero";
 import { StacksEntrance } from "~/components/hero/StacksEntrance";
 import { Library } from "~/components/stacks/Library";
+import { SiteNav } from "~/components/ui/SiteNav";
+import { useInStacks } from "~/lib/stacksMode";
 
 export function meta() {
   return [
@@ -10,10 +12,11 @@ export function meta() {
 }
 
 export default function Home() {
+  const inStacks = useInStacks();
   return (
     <main>
-      <Hero />
-      <StacksEntrance>
+      {inStacks ? <SiteNav /> : <Hero />}
+      <StacksEntrance locked={inStacks}>
         <Library />
       </StacksEntrance>
     </main>

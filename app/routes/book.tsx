@@ -1,9 +1,11 @@
 import { motion, useReducedMotion } from "motion/react";
 import { data, isRouteErrorResponse, Link, useLocation, useNavigate } from "react-router";
 import type { Route } from "./+types/book";
-import { books, getBook } from "~/lib/books";
+import { amazonLink, books, findLinks, getBook, infoLink } from "~/lib/books";
+import { enterStacks } from "~/lib/stacksMode";
 import { FlippingCover } from "~/components/book/FlippingCover";
 import { BookCover } from "~/components/book/BookCover";
+import { SiteNav } from "~/components/ui/SiteNav";
 
 export function clientLoader({ params }: Route.ClientLoaderArgs) {
   const book = getBook(params.slug);
@@ -19,21 +21,34 @@ export function meta({ data: loaderData }: Route.MetaArgs) {
   ];
 }
 
-const background = "min-h-screen bg-[radial-gradient(ellipse_at_top_left,#80531e33,transparent_55%),linear-gradient(135deg,var(--color-wood),var(--color-night)_75%)] px-5 py-10 text-parchment sm:px-10 sm:py-16";
+const background = "min-h-screen bg-[radial-gradient(ellipse_at_top_left,#80531e33,transparent_55%),linear-gradient(135deg,var(--color-wood),var(--color-night)_75%)] px-5 pt-24 pb-10 text-parchment sm:px-10 sm:pt-28 sm:pb-16";
 const external = "inline-flex items-center justify-center rounded border border-gold px-6 py-3 font-heading text-sm text-gold transition-colors hover:bg-gold hover:text-night focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold";
+const quiet = "text-gold underline underline-offset-4 hover:text-candle focus-visible:outline-2 focus-visible:outline-gold";
 
 export default function BookPage({ loaderData }: Route.ComponentProps) {
   const { book } = loaderData;
   const location = useLocation();
   const navigate = useNavigate();
   const reduceMotion = useReducedMotion();
+  const find = findLinks(book);
+  const amazon = amazonLink(book);
+  const info = infoLink(book);
+  // One way to buy: the book's Amazon page, else its own link, else an Amazon search (most books
+  // we couldn't find on amazon.in aren't sold there, so a search would mostly show other books),
+  // else a comparison of sellers.
+  const buy = amazon?.direct ? { href: amazon.href, label: "Buy on Amazon", sponsored: true }
+    : info ? { href: info, label: "Get the book", sponsored: false }
+    : amazon ? { href: amazon.href, label: "Find on Amazon", sponsored: true }
+    : { href: find.sellers, label: "Find a copy", sponsored: false };
   const related = books.filter((candidate) => candidate.slug !== book.slug && candidate.topics.some((topic) => book.topics.includes(topic)))
     .sort((a, b) => Number(b.authors.some((author) => book.authors.includes(author))) - Number(a.authors.some((author) => book.authors.includes(author))) || a.title.localeCompare(b.title)).slice(0, 6);
   const entrance = { initial: { opacity: 0, y: reduceMotion ? 0 : 20 }, animate: { opacity: 1, y: 0 }, transition: { duration: reduceMotion ? 0.15 : 0.55 } };
   return (
     <main className={background}>
+      <SiteNav />
       <div className="mx-auto max-w-6xl">
         <Link to="/#stacks" className="text-gold underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-gold" onClick={(event) => {
+          enterStacks();
           if (location.state?.fromLibrary && !event.metaKey && !event.ctrlKey && !event.shiftKey && !event.altKey && event.button === 0) {
             event.preventDefault();
             navigate(-1);
@@ -53,10 +68,14 @@ export default function BookPage({ loaderData }: Route.ComponentProps) {
             <ul aria-label="Topics" className="mt-5 flex flex-wrap gap-2">{book.topics.map((topic) => <li key={topic} className="rounded-full border border-gold/30 px-3 py-1 text-sm capitalize text-parchment/80">{topic.replaceAll("-", " ")}</li>)}</ul>
             <div className="mt-8 flex flex-wrap gap-3">
               {book.free_link && <a href={book.free_link} target="_blank" rel="noopener noreferrer" className={`${external} bg-gold text-night`}>Read free ↗</a>}
-              {book.info_link && <a href={book.info_link} target="_blank" rel="noopener noreferrer" className={external}>Get the book ↗</a>}
+              <a href={buy.href} target="_blank" rel={`${buy.sponsored ? "sponsored " : ""}noopener noreferrer`} className={external}>{buy.label} ↗</a>
             </div>
             {book.free_link && book.free_link_note && <p className="mt-3 text-sm text-parchment/65">{book.free_link_note}</p>}
-            {!book.free_link && !book.info_link && <p className="text-parchment/65">No link is known yet for this book.</p>}
+            <p className="mt-4 text-sm text-parchment/65">
+              {buy.href !== find.sellers ? <><a href={find.sellers} target="_blank" rel="noopener noreferrer" className={quiet}>Compare sellers</a> · </> : "Compares new and used sellers. "}
+              Or borrow it: <a href={find.library} target="_blank" rel="noopener noreferrer" className={quiet}>a library near you</a> · <a href={find.openLibrary} target="_blank" rel="noopener noreferrer" className={quiet}>Open Library</a>
+            </p>
+            {buy.sponsored && <p className="mt-2 text-xs text-parchment/50">As an Amazon Associate, we earn from qualifying purchases.</p>}
             {book.companion_repo && <a href={book.companion_repo} target="_blank" rel="noopener noreferrer" className="mt-6 inline-block text-gold underline underline-offset-4 focus-visible:outline-2 focus-visible:outline-gold">Companion code ↗</a>}
           </motion.div>
         </div>
@@ -78,6 +97,6 @@ export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
     <p className="font-heading text-sm tracking-widest text-gold">THE TIMECHAIN LIBRARY</p>
     <h1 className="mt-5 font-display text-3xl">{missing ? "This book has wandered off" : "We couldn’t open this book"}</h1>
     <p className="mt-4 text-lg text-parchment/70">{missing ? "We couldn’t find that title in our catalog. There are plenty of other stories waiting on the shelves." : "Please try again, or return to the stacks to find another title."}</p>
-    <Link to="/#stacks" className={`${external} mt-7`}>Back to the library</Link>
+    <Link to="/#stacks" onClick={enterStacks} className={`${external} mt-7`}>Back to the library</Link>
   </div></main>;
 }
