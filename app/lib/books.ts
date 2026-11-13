@@ -21,8 +21,11 @@ export type Book = {
   borderline?: boolean;
 };
 
-// Borderline books stay off the public site until they're decided.
-export const books = (raw as Book[]).filter((b) => !b.borderline);
+// Borderline books stay off the public site until they're decided. Cover paths in books.json
+// are from the site root; the site may be served from a folder (BASE_URL, e.g. on GitHub Pages).
+export const books = (raw as Book[])
+  .filter((b) => !b.borderline)
+  .map((b) => (b.cover ? { ...b, cover: import.meta.env.BASE_URL + b.cover.replace(/^\//, "") } : b));
 
 const bySlug = new Map(books.map((b) => [b.slug, b]));
 

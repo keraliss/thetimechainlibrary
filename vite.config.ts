@@ -4,5 +4,6 @@ import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
 export default defineConfig({
+  base: process.env.BASE_PATH ?? "/", // see react-router.config.ts
   plugins: [tailwindcss(), reactRouter(), tsconfigPaths()],
 });

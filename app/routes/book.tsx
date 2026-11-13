@@ -7,10 +7,20 @@ import { FlippingCover } from "~/components/book/FlippingCover";
 import { BookCover } from "~/components/book/BookCover";
 import { SiteNav } from "~/components/ui/SiteNav";
 
-export function clientLoader({ params }: Route.ClientLoaderArgs) {
-  const book = getBook(params.slug);
+// Runs at build time to prerender each book page; in the browser, clientLoader reads the same
+// bundled data, so navigating between books never fetches anything.
+function load(slug: string) {
+  const book = getBook(slug);
   if (!book) throw data(null, { status: 404 });
   return { book };
+}
+
+export function loader({ params }: Route.LoaderArgs) {
+  return load(params.slug);
+}
+
+export function clientLoader({ params }: Route.ClientLoaderArgs) {
+  return load(params.slug);
 }
 
 export function meta({ data: loaderData }: Route.MetaArgs) {

@@ -52,6 +52,9 @@ export function Hero() {
   const ref = useRef<HTMLElement>(null);
   const reduced = useReducedMotion() ?? false;
   const small = useIsSmallScreen();
+  // The WebGL hall only exists in the browser; prerendering it at build time fails.
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => setMounted(true), []);
 
   const pointerX = useMotionValue(0);
   const pointerY = useMotionValue(0);
@@ -92,9 +95,11 @@ export function Hero() {
   return (
     <section ref={ref} className={`relative ${reduced ? "h-screen" : "h-[300vh]"}`} aria-label="The Timechain Library">
       <div className="sticky top-0 h-screen overflow-hidden bg-night">
-        <Suspense fallback={null}>
-          <HallGL cam={cam} small={small} lookX={px} lookY={py} candleCount={small ? 26 : 44} bookCount={small ? 5 : 8} reduced={reduced} />
-        </Suspense>
+        {mounted && (
+          <Suspense fallback={null}>
+            <HallGL cam={cam} small={small} lookX={px} lookY={py} candleCount={small ? 26 : 44} bookCount={small ? 5 : 8} reduced={reduced} />
+          </Suspense>
+        )}
         <Layer depth={1} px={px} py={py}>
           {!reduced && <Dust count={small ? 24 : 48} />}
         </Layer>
